@@ -1,0 +1,92 @@
+[
+    {
+        "systemProfile": "review",
+        "appVersion": "2.5.0",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.3.1.0",
+        "assetVersion": "2.3.1.0",
+        "appHash": "11e4ff06-ee88-478f-9214-de3297301a45",
+        "assetHash": "3c71b99d-aafd-438c-a240-db6b797ea7df",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "2.5.1",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.3.1.20",
+        "assetVersion": "2.3.1.20",
+        "appHash": "727880b1-8c81-462d-8124-481eb6c916dc",
+        "assetHash": "1f179be4-f6d4-4ec7-bce9-1fd55e6bd19b",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "2.6.1",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.4.1.20",
+        "assetVersion": "2.4.1.20",
+        "appHash": "a5ae99f4-d016-4326-8930-bc9e92a83971",
+        "assetHash": "4d347e1d-52c9-4f60-80ac-df0b67ce4adc",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "2.6.5",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.4.51.0",
+        "assetVersion": "2.4.51.0",
+        "appHash": "dcbc235d-ab1a-4aa8-b1c1-c2c316251222",
+        "assetHash": "b96b5064-60cf-4a03-a211-e91be105422a",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "2.6.8",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.4.81.10",
+        "assetVersion": "2.4.81.10",
+        "appHash": "bedadbf9-aea9-421c-99e5-bdae588724ae",
+        "assetHash": "d9fd88a9-71f3-4424-b6ee-6fefe74823fc",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "2.7.0",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.5.1.20",
+        "assetVersion": "2.5.1.10",
+        "appHash": "c65089ee-c8aa-48fc-8ee7-627dbccbb01e",
+        "assetHash": "715baa3e-b5a6-4bb0-9039-e17f64e69f2c",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "2.8.0",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "2.6.2.20",
+        "assetVersion": "2.6.2.10",
+        "appHash": "088f6b8b-ea0a-4f25-8778-3dfac4e26d45",
+        "assetHash": "fe6529d6-7f88-410d-8153-c74ef22ca034",
+        "appVersionStatus": "not_available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "3.0.0",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "3.1.0.0",
+        "assetVersion": "3.1.0.2",
+        "appHash": "1de15af3-a135-4ac4-a488-1623fcb78cf7",
+        "assetHash": "591297dc-ce69-497d-863a-98fc82ae0cb0",
+        "appVersionStatus": "available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "3.1.0",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "3.1.1.0",
+        "assetVersion": "3.1.0.2",
+        "appHash": "a892dc93-798e-4007-8d07-54cb13c9500a",
+        "assetHash": "44af9541-c12f-41e8-a199-c91a484d75a6",
+        "appVersionStatus": "available"
+    }
+]
