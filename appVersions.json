@@ -77,13 +77,13 @@
         "assetVersion": "3.1.0.2",
         "appHash": "1de15af3-a135-4ac4-a488-1623fcb78cf7",
         "assetHash": "591297dc-ce69-497d-863a-98fc82ae0cb0",
-        "appVersionStatus": "available"
+        "appVersionStatus": "not_available"
     },
     {
         "systemProfile": "review",
         "appVersion": "3.1.0",
         "multiPlayVersion": "kaito",
-        "dataVersion": "3.1.1.0",
+        "dataVersion": "3.1.1.10",
         "assetVersion": "3.1.0.2",
         "appHash": "a892dc93-798e-4007-8d07-54cb13c9500a",
         "assetHash": "44af9541-c12f-41e8-a199-c91a484d75a6",
