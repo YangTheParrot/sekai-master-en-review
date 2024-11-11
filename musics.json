@@ -3538,9 +3538,7 @@
         "id": 183,
         "seq": 1513801,
         "releaseConditionId": 5,
-        "categories": [
-            "image"
-        ],
+        "categories": [],
         "title": "fixer",
         "pronunciation": "fixer",
         "creatorArtistId": 33,
@@ -5966,9 +5964,7 @@
         "id": 289,
         "seq": 1222501,
         "releaseConditionId": 5,
-        "categories": [
-            "image"
-        ],
+        "categories": [],
         "title": "Amanojaku",
         "pronunciation": "amanojaku",
         "creatorArtistId": 73,

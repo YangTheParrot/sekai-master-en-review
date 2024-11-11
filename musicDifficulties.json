@@ -15566,5 +15566,21 @@
         "playLevel": 29,
         "releaseConditionId": 1,
         "totalNoteCount": 1269
+    },
+    {
+        "id": 4017,
+        "musicId": 93,
+        "musicDifficulty": "append",
+        "playLevel": 29,
+        "releaseConditionId": 1,
+        "totalNoteCount": 1446
+    },
+    {
+        "id": 4018,
+        "musicId": 52,
+        "musicDifficulty": "append",
+        "playLevel": 25,
+        "releaseConditionId": 1,
+        "totalNoteCount": 703
     }
 ]
