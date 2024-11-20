@@ -629,6 +629,20 @@
                 "assetbundleName": "piapro-story-chapter",
                 "episodes": [
                     {
+                        "id": 4,
+                        "unitStoryEpisodeGroupId": 1,
+                        "chapterNo": 1,
+                        "episodeNo": 4,
+                        "episodeNoLabel": "Episode 1",
+                        "title": "Secret Practice",
+                        "assetbundleName": "story_ts_06_01",
+                        "scenarioId": "vsleo_01_01",
+                        "releaseConditionId": 50002,
+                        "rewardResourceBoxIds": [
+                            2
+                        ]
+                    },
+                    {
                         "id": 5,
                         "unitStoryEpisodeGroupId": 1,
                         "chapterNo": 1,
