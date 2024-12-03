@@ -112,22 +112,6 @@
         ]
     },
     {
-        "id": 8,
-        "seq": 500,
-        "normalMissionType": "clear_solo_challenge_live",
-        "requirement": 1,
-        "sentence": "Clear a Challenge Show.",
-        "rewards": [
-            {
-                "id": 8,
-                "missionType": "normal_mission",
-                "missionId": 8,
-                "seq": 1,
-                "resourceBoxId": 5
-            }
-        ]
-    },
-    {
         "id": 9,
         "seq": 100,
         "normalMissionType": "read_character_profile_episode",

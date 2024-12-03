@@ -93,10 +93,20 @@
         "systemProfile": "review",
         "appVersion": "3.1.5",
         "multiPlayVersion": "kaito",
-        "dataVersion": "3.1.50.1",
+        "dataVersion": "3.1.50.0",
         "assetVersion": "3.1.50.1",
         "appHash": "fb23ab54-5371-45d4-abf3-c5531bc58b01",
         "assetHash": "0843e0e7-f7a0-4040-af36-182d47a24149",
+        "appVersionStatus": "available"
+    },
+    {
+        "systemProfile": "review",
+        "appVersion": "3.2.0",
+        "multiPlayVersion": "kaito",
+        "dataVersion": "3.2.0.0",
+        "assetVersion": "3.2.0.0",
+        "appHash": "1380836d-de9e-49a8-afe5-c52ba589c8c9",
+        "assetHash": "eca517b9-aefd-4ac9-8319-4099be30faf0",
         "appVersionStatus": "available"
     }
 ]

@@ -1312,16 +1312,16 @@
         ]
     },
     {
-        "id": 1301,
+        "id": 1302,
         "seq": 1,
-        "honorMissionType": "clear_live_continued",
+        "honorMissionType": "finish_live_with_empty_life",
         "requirement": 5,
-        "sentence": "Clear a show using five or more continues.",
+        "sentence": "Finish a Solo Show or Challenge Show with zero Life 5 times.",
         "rewards": [
             {
-                "id": 330,
+                "id": 7751,
                 "missionType": "honor_mission",
-                "missionId": 1301,
+                "missionId": 1302,
                 "seq": 1,
                 "resourceBoxId": 1036
             }
@@ -1748,7 +1748,7 @@
         "seq": 1,
         "honorMissionType": "clear_live_male",
         "requirement": 100,
-        "sentence": "Play 100 shows with only Tsukasa, Akito, Toya, Rui, Len, and KAITO.",
+        "sentence": "Play 100 shows with only Tsukasa, Akito, Toya, Rui, Len, or KAITO.",
         "rewards": [
             {
                 "id": 345,

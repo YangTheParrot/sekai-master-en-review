@@ -1792,7 +1792,7 @@
                 "id": 1000112,
                 "eventStoryId": 14,
                 "episodeNo": 5,
-                "title": "I Want to Help",
+                "title": "I Want To Help",
                 "assetbundleName": "event_infinitelygray_2021_05",
                 "scenarioId": "event_14_05",
                 "releaseConditionId": 101304,
@@ -14137,7 +14137,7 @@
                 "id": 1000886,
                 "eventStoryId": 110,
                 "episodeNo": 6,
-                "title": "Uncompromised Feelings",
+                "title": "What We Can't Give Up",
                 "assetbundleName": "event_stickto_2023_06",
                 "scenarioId": "event_110_06",
                 "releaseConditionId": 110905,
@@ -14729,6 +14729,393 @@
                     {
                         "storyType": "event_story",
                         "resourceBoxId": 67
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "eventId": 115,
+        "outline": "Fresh second-years Minori and Shiho are on the animal caretaker committee, and their work has already begun. When they learn about a shadowing opportunity at Odaiba Animal Land from a teacher, they decide to participate. Animal antics ensue!",
+        "bannerGameCharacterUnitId": 5,
+        "assetbundleName": "event_keeper_2023",
+        "eventStoryEpisodes": [
+            {
+                "id": 1000923,
+                "eventStoryId": 115,
+                "episodeNo": 1,
+                "title": "We're Animal Caretakers!",
+                "assetbundleName": "event_keeper_2023_01",
+                "scenarioId": "event_115_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000924,
+                "eventStoryId": 115,
+                "episodeNo": 2,
+                "title": "The Lead-Up",
+                "assetbundleName": "event_keeper_2023_02",
+                "scenarioId": "event_115_02",
+                "releaseConditionId": 111401,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000925,
+                "eventStoryId": 115,
+                "episodeNo": 3,
+                "title": "Animal Excitement",
+                "assetbundleName": "event_keeper_2023_03",
+                "scenarioId": "event_115_03",
+                "releaseConditionId": 111402,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000926,
+                "eventStoryId": 115,
+                "episodeNo": 4,
+                "title": "Schubert The Unshakable Shoebill",
+                "assetbundleName": "event_keeper_2023_04",
+                "scenarioId": "event_115_04",
+                "releaseConditionId": 111403,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000927,
+                "eventStoryId": 115,
+                "episodeNo": 5,
+                "title": "An Unexpected Visitor",
+                "assetbundleName": "event_keeper_2023_05",
+                "scenarioId": "event_115_05",
+                "releaseConditionId": 111404,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000928,
+                "eventStoryId": 115,
+                "episodeNo": 6,
+                "title": "Idol Aura Overflow",
+                "assetbundleName": "event_keeper_2023_06",
+                "scenarioId": "event_115_06",
+                "releaseConditionId": 111405,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000929,
+                "eventStoryId": 115,
+                "episodeNo": 7,
+                "title": "Operation: Detain Dylan!",
+                "assetbundleName": "event_keeper_2023_07",
+                "scenarioId": "event_115_07",
+                "releaseConditionId": 111406,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000930,
+                "eventStoryId": 115,
+                "episodeNo": 8,
+                "title": "Spectacular Caretakers!",
+                "assetbundleName": "event_keeper_2023_08",
+                "scenarioId": "event_115_08",
+                "releaseConditionId": 111407,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "eventId": 116,
+        "outline": "Kanade continues to write songs in the hope of saving Mafuyu. When her grandmother calls to suggest that she think more about herself and her own future, her thoughts turn toward the past.",
+        "bannerGameCharacterUnitId": 17,
+        "assetbundleName": "event_tone_2023",
+        "eventStoryEpisodes": [
+            {
+                "id": 1000931,
+                "eventStoryId": 116,
+                "episodeNo": 1,
+                "title": "Where I'm Headed",
+                "assetbundleName": "event_tone_2023_01",
+                "scenarioId": "event_116_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000932,
+                "eventStoryId": 116,
+                "episodeNo": 2,
+                "title": "What I Want To Do",
+                "assetbundleName": "event_tone_2023_02",
+                "scenarioId": "event_116_02",
+                "releaseConditionId": 111501,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000933,
+                "eventStoryId": 116,
+                "episodeNo": 3,
+                "title": "What Music Is To Me",
+                "assetbundleName": "event_tone_2023_03",
+                "scenarioId": "event_116_03",
+                "releaseConditionId": 111502,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000934,
+                "eventStoryId": 116,
+                "episodeNo": 4,
+                "title": "Revisiting The Past",
+                "assetbundleName": "event_tone_2023_04",
+                "scenarioId": "event_116_04",
+                "releaseConditionId": 111503,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000935,
+                "eventStoryId": 116,
+                "episodeNo": 5,
+                "title": "A Warm Melody",
+                "assetbundleName": "event_tone_2023_05",
+                "scenarioId": "event_116_05",
+                "releaseConditionId": 111504,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000936,
+                "eventStoryId": 116,
+                "episodeNo": 6,
+                "title": "Soft Memories, Hard Realities",
+                "assetbundleName": "event_tone_2023_06",
+                "scenarioId": "event_116_06",
+                "releaseConditionId": 111505,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000937,
+                "eventStoryId": 116,
+                "episodeNo": 7,
+                "title": "Wish",
+                "assetbundleName": "event_tone_2023_07",
+                "scenarioId": "event_116_07",
+                "releaseConditionId": 111506,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000938,
+                "eventStoryId": 116,
+                "episodeNo": 8,
+                "title": "The Way I Played That Day",
+                "assetbundleName": "event_tone_2023_08",
+                "scenarioId": "event_116_08",
+                "releaseConditionId": 111507,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 69
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "eventId": 117,
+        "outline": "One day in December, Mizuki's sister sends word from abroad that she'll be coming to visit, to Mizuki's delight. Warm memories resurface, of a time long ago when the two of them went shopping together. And so, Mizuki extends an invitation to go once again.",
+        "bannerGameCharacterUnitId": 20,
+        "assetbundleName": "event_cuddle_2023",
+        "eventStoryEpisodes": [
+            {
+                "id": 1000939,
+                "eventStoryId": 117,
+                "episodeNo": 1,
+                "title": "Exciting News",
+                "assetbundleName": "event_cuddle_2023_01",
+                "scenarioId": "event_117_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000940,
+                "eventStoryId": 117,
+                "episodeNo": 2,
+                "title": "To The New Year's Sales!",
+                "assetbundleName": "event_cuddle_2023_02",
+                "scenarioId": "event_117_02",
+                "releaseConditionId": 111601,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000941,
+                "eventStoryId": 117,
+                "episodeNo": 3,
+                "title": "Resurfacing Memories",
+                "assetbundleName": "event_cuddle_2023_03",
+                "scenarioId": "event_117_03",
+                "releaseConditionId": 111602,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000942,
+                "eventStoryId": 117,
+                "episodeNo": 4,
+                "title": "Cherish Your Feelings",
+                "assetbundleName": "event_cuddle_2023_04",
+                "scenarioId": "event_117_04",
+                "releaseConditionId": 111603,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000943,
+                "eventStoryId": 117,
+                "episodeNo": 5,
+                "title": "A New Year's Gift Search",
+                "assetbundleName": "event_cuddle_2023_05",
+                "scenarioId": "event_117_05",
+                "releaseConditionId": 111604,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000944,
+                "eventStoryId": 117,
+                "episodeNo": 6,
+                "title": "Enjoy What You Like",
+                "assetbundleName": "event_cuddle_2023_06",
+                "scenarioId": "event_117_06",
+                "releaseConditionId": 111605,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000945,
+                "eventStoryId": 117,
+                "episodeNo": 7,
+                "title": "Anything I Can Do",
+                "assetbundleName": "event_cuddle_2023_07",
+                "scenarioId": "event_117_07",
+                "releaseConditionId": 111606,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1000946,
+                "eventStoryId": 117,
+                "episodeNo": 8,
+                "title": "Now, As Ever",
+                "assetbundleName": "event_cuddle_2023_08",
+                "scenarioId": "event_117_08",
+                "releaseConditionId": 111607,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 70
                     }
                 ]
             }

@@ -1564,27 +1564,42 @@
     },
     {
         "id": 321,
-        "name": "Happy Birthday Honami 10/27/2024",
+        "name": "Happy Birthday Honami Oct.27,2024",
+        "honorType": "event"
+    },
+    {
+        "id": 322,
+        "name": "HAPPY BIRTHDAY 志歩 2025.1.8",
         "honorType": "event"
     },
     {
         "id": 324,
-        "name": "Happy Birthday Haruka 10/5/2024",
+        "name": "Happy Birthday Haruka Oct.05,2024",
         "honorType": "event"
     },
     {
         "id": 326,
-        "name": "Happy Birthday Shizuku 12/6/2024",
+        "name": "Happy Birthday Shizuku Dec.6,2024",
         "honorType": "event"
     },
     {
         "id": 329,
-        "name": "Happy Birthday Akito 11/12/2024",
+        "name": "Happy Birthday Akito Nov.12,2024",
+        "honorType": "event"
+    },
+    {
+        "id": 340,
+        "name": "Happy Anniversary Rin Dec.27,2024",
+        "honorType": "event"
+    },
+    {
+        "id": 341,
+        "name": "Happy Anniversary Len Dec.27,2024",
         "honorType": "event"
     },
     {
         "id": 343,
-        "name": "Happy Anniversary MEIKO 11/5/2024",
+        "name": "Happy Anniversary MEIKO Nov.5,2024",
         "honorType": "event"
     },
     {
@@ -1636,28 +1651,28 @@
         "name": "Searching for Sunken Shadows Chapter 1",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_underwater_cp1",
-        "frameName": "_event_underwater_cp1"
+        "frameName": "event_underwater_cp1"
     },
     {
         "id": 354,
         "name": "Searching for Sunken Shadows Chapter 2",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_underwater_cp2",
-        "frameName": "_event_underwater_cp2"
+        "frameName": "event_underwater_cp2"
     },
     {
         "id": 355,
         "name": "Searching for Sunken Shadows Chapter 3",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_underwater_cp3",
-        "frameName": "_event_underwater_cp3"
+        "frameName": "event_underwater_cp3"
     },
     {
         "id": 356,
         "name": "Searching for Sunken Shadows Chapter 4",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_underwater_cp4",
-        "frameName": "_event_underwater_cp4"
+        "frameName": "event_underwater_cp4"
     },
     {
         "id": 357,
@@ -1670,6 +1685,39 @@
         "name": "Picture Perfect!",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_crankup"
+    },
+    {
+        "id": 359,
+        "name": "This Way! That Way! Zookeeper Day",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_keeper"
+    },
+    {
+        "id": 360,
+        "name": "The Way I Played That Day",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_tone"
+    },
+    {
+        "id": 361,
+        "name": "クリスマス2024",
+        "honorType": "event"
+    },
+    {
+        "id": 362,
+        "name": "カウントダウン2025",
+        "honorType": "event"
+    },
+    {
+        "id": 363,
+        "name": "ハッピーニューイヤー2025",
+        "honorType": "event"
+    },
+    {
+        "id": 364,
+        "name": "Beside Unchanging Warmth",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_cuddle"
     },
     {
         "id": 387,

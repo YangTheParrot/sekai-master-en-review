@@ -74,6 +74,7 @@
         "viewType": "side_view",
         "displayTimelineType": "all",
         "name": "Street SEKAI",
+        "subName": "A Cafe",
         "releaseConditionId": 1
     },
     {
@@ -173,6 +174,19 @@
         "releaseConditionId": 1
     },
     {
+        "id": 19,
+        "assetbundleName": "area19",
+        "groupId": 70,
+        "isBaseArea": false,
+        "areaType": "spirit_world",
+        "viewType": "side_view",
+        "displayTimelineType": "next_grade",
+        "name": "Street SEKAI",
+        "subName": "広場",
+        "startAt": 1705896000000,
+        "releaseConditionId": 111705
+    },
+    {
         "id": 21,
         "assetbundleName": "area21",
         "groupId": 90,
@@ -184,5 +198,18 @@
         "subName": "Lake",
         "startAt": 1732161600000,
         "releaseConditionId": 111105
+    },
+    {
+        "id": 22,
+        "assetbundleName": "area22",
+        "groupId": 160,
+        "isBaseArea": true,
+        "areaType": "spirit_world",
+        "viewType": "side_view",
+        "displayTimelineType": "next_grade",
+        "name": "Puroland SEKAI",
+        "startAt": 1736280000000,
+        "endAt": 1737532799000,
+        "releaseConditionId": 1
     }
 ]

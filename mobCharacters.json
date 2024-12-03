@@ -744,6 +744,12 @@
         "gender": "male"
     },
     {
+        "id": 126,
+        "seq": 126,
+        "name": "Mizuki's Sister (Junior High School)",
+        "gender": "female"
+    },
+    {
         "id": 900000,
         "seq": 900000,
         "name": "Special: All",
