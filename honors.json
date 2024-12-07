@@ -5573,19 +5573,19 @@
                 "honorId": 118,
                 "level": 1,
                 "bonus": 0,
-                "description": "Clear 5 songs on all difficulty levels except Extra."
+                "description": "Clear 5 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 118,
                 "level": 2,
                 "bonus": 0,
-                "description": "Clear 10 songs on all difficulty levels except Extra."
+                "description": "Clear 10 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 118,
                 "level": 3,
                 "bonus": 0,
-                "description": "Clear 20 songs on all difficulty levels except Extra."
+                "description": "Clear 20 songs on all difficulty levels (excludes Append)."
             }
         ]
     },
@@ -5601,61 +5601,61 @@
                 "honorId": 119,
                 "level": 1,
                 "bonus": 0,
-                "description": "Clear 30 songs on all difficulty levels except Extra."
+                "description": "Clear 30 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 2,
                 "bonus": 0,
-                "description": "Clear 40 songs on all difficulty levels except Extra."
+                "description": "Clear 40 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 3,
                 "bonus": 0,
-                "description": "Clear 50 songs on all difficulty levels except Extra."
+                "description": "Clear 50 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 4,
                 "bonus": 0,
-                "description": "Clear 60 songs on all difficulty levels except Extra."
+                "description": "Clear 60 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 5,
                 "bonus": 0,
-                "description": "Clear 70 songs on all difficulty levels except Extra."
+                "description": "Clear 70 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 6,
                 "bonus": 0,
-                "description": "Clear 80 songs on all difficulty levels except Extra."
+                "description": "Clear 80 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 7,
                 "bonus": 0,
-                "description": "Clear 90 songs on all difficulty levels except Extra."
+                "description": "Clear 90 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 8,
                 "bonus": 0,
-                "description": "Clear 100 songs on all difficulty levels except Extra."
+                "description": "Clear 100 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 9,
                 "bonus": 0,
-                "description": "Clear 110 songs on all difficulty levels except Extra."
+                "description": "Clear 110 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 119,
                 "level": 10,
                 "bonus": 0,
-                "description": "Clear 120 songs on all difficulty levels except Extra."
+                "description": "Clear 120 songs on all difficulty levels (excludes Append)."
             }
         ]
     },
@@ -5671,61 +5671,61 @@
                 "honorId": 120,
                 "level": 1,
                 "bonus": 0,
-                "description": "Clear 150 songs on all difficulty levels except Extra."
+                "description": "Clear 150 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 2,
                 "bonus": 0,
-                "description": "Clear 180 songs on all difficulty levels except Extra."
+                "description": "Clear 180 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 3,
                 "bonus": 0,
-                "description": "Clear 210 songs on all difficulty levels except Extra."
+                "description": "Clear 210 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 4,
                 "bonus": 0,
-                "description": "Clear 240 songs on all difficulty levels except Extra."
+                "description": "Clear 240 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 5,
                 "bonus": 0,
-                "description": "Clear 270 songs on all difficulty levels except Extra."
+                "description": "Clear 270 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 6,
                 "bonus": 0,
-                "description": "Clear 300 songs on all difficulty levels except Extra."
+                "description": "Clear 300 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 7,
                 "bonus": 0,
-                "description": "Clear 330 songs on all difficulty levels except Extra."
+                "description": "Clear 330 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 8,
                 "bonus": 0,
-                "description": "Clear 360 songs on all difficulty levels except Extra."
+                "description": "Clear 360 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 9,
                 "bonus": 0,
-                "description": "Clear 390 songs on all difficulty levels except Extra."
+                "description": "Clear 390 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 120,
                 "level": 10,
                 "bonus": 0,
-                "description": "Clear 420 songs on all difficulty levels except Extra."
+                "description": "Clear 420 songs on all difficulty levels (excludes Append)."
             }
         ]
     },
@@ -5741,61 +5741,61 @@
                 "honorId": 121,
                 "level": 1,
                 "bonus": 0,
-                "description": "Clear 450 songs on all difficulty levels except Extra."
+                "description": "Clear 450 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 2,
                 "bonus": 0,
-                "description": "Clear 480 songs on all difficulty levels except Extra."
+                "description": "Clear 480 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 3,
                 "bonus": 0,
-                "description": "Clear 510 songs on all difficulty levels except Extra."
+                "description": "Clear 510 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 4,
                 "bonus": 0,
-                "description": "Clear 540 songs on all difficulty levels except Extra."
+                "description": "Clear 540 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 5,
                 "bonus": 0,
-                "description": "Clear 570 songs on all difficulty levels except Extra."
+                "description": "Clear 570 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 6,
                 "bonus": 0,
-                "description": "Clear 600 songs on all difficulty levels except Extra."
+                "description": "Clear 600 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 7,
                 "bonus": 0,
-                "description": "Clear 630 songs on all difficulty levels except Extra."
+                "description": "Clear 630 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 8,
                 "bonus": 0,
-                "description": "Clear 660 songs on all difficulty levels except Extra."
+                "description": "Clear 660 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 9,
                 "bonus": 0,
-                "description": "Clear 690 songs on all difficulty levels except Extra."
+                "description": "Clear 690 songs on all difficulty levels (excludes Append)."
             },
             {
                 "honorId": 121,
                 "level": 10,
                 "bonus": 0,
-                "description": "Clear 720 songs on all difficulty levels except Extra."
+                "description": "Clear 720 songs on all difficulty levels (excludes Append)."
             }
         ]
     },
@@ -37266,7 +37266,7 @@
         "seq": 16000,
         "groupId": 230,
         "honorRarity": "low",
-        "name": "Happy Birthday Saki May 9,2024",
+        "name": "Happy Birthday Saki 5/9/2024",
         "assetbundleName": "honor_2149",
         "levels": [
             {
@@ -37298,7 +37298,7 @@
         "seq": 16200,
         "groupId": 232,
         "honorRarity": "low",
-        "name": "Happy Birthday Shiho Jan.8,2024",
+        "name": "Happy Birthday Shiho 1/8/2024",
         "assetbundleName": "honor_2151",
         "levels": [
             {
@@ -37314,7 +37314,7 @@
         "seq": 16300,
         "groupId": 233,
         "honorRarity": "low",
-        "name": "Happy Birthday Minori Apr.14,2024",
+        "name": "Happy Birthday Minori 4/14/2024",
         "assetbundleName": "honor_2152",
         "levels": [
             {
@@ -37346,7 +37346,7 @@
         "seq": 16500,
         "groupId": 235,
         "honorRarity": "low",
-        "name": "Happy Birthday Airi Mar.19,2024",
+        "name": "Happy Birthday Airi 3/19/2024",
         "assetbundleName": "honor_2154",
         "levels": [
             {
@@ -37378,7 +37378,7 @@
         "seq": 16700,
         "groupId": 237,
         "honorRarity": "low",
-        "name": "Happy Birthday Kohane Mar.2,2024",
+        "name": "Happy Birthday Kohane 3/2/2024",
         "assetbundleName": "honor_2156",
         "levels": [
             {
@@ -37426,7 +37426,7 @@
         "seq": 17000,
         "groupId": 240,
         "honorRarity": "low",
-        "name": "Happy Birthday Toya May 25,2024",
+        "name": "Happy Birthday Toya 5/25/2024",
         "assetbundleName": "honor_2159",
         "levels": [
             {
@@ -37442,7 +37442,7 @@
         "seq": 17100,
         "groupId": 241,
         "honorRarity": "low",
-        "name": "Happy Birthday Tsukasa May 17,2024",
+        "name": "Happy Birthday Tsukasa 5/17/2024",
         "assetbundleName": "honor_2160",
         "levels": [
             {
@@ -37490,7 +37490,7 @@
         "seq": 17400,
         "groupId": 244,
         "honorRarity": "low",
-        "name": "Happy Birthday Rui Jun.24,2024",
+        "name": "Happy Birthday Rui 6/24/2024",
         "assetbundleName": "honor_2163",
         "levels": [
             {
@@ -37506,7 +37506,7 @@
         "seq": 17500,
         "groupId": 245,
         "honorRarity": "low",
-        "name": "Happy Birthday Kanade Feb.10,2024",
+        "name": "Happy Birthday Kanade 2/10/2024",
         "assetbundleName": "honor_2164",
         "levels": [
             {
@@ -37522,7 +37522,7 @@
         "seq": 17600,
         "groupId": 246,
         "honorRarity": "low",
-        "name": "Happy Birthday Mafuyu Jan.27,2024",
+        "name": "Happy Birthday Mafuyu 1/27/2024",
         "assetbundleName": "honor_2165",
         "levels": [
             {
@@ -37538,7 +37538,7 @@
         "seq": 17700,
         "groupId": 247,
         "honorRarity": "low",
-        "name": "Happy Birthday Ena Apr.30,2024",
+        "name": "Happy Birthday Ena 4/30/2024",
         "assetbundleName": "honor_2166",
         "levels": [
             {
@@ -37618,7 +37618,7 @@
         "seq": 15600,
         "groupId": 252,
         "honorRarity": "low",
-        "name": "Happy Anniversary Luka Jan.30,2024",
+        "name": "Happy Anniversary Luka 1/30/2024",
         "assetbundleName": "honor_2171",
         "levels": [
             {
@@ -37650,7 +37650,7 @@
         "seq": 15800,
         "groupId": 254,
         "honorRarity": "low",
-        "name": "Happy Anniversary KAITO Feb.17,2024",
+        "name": "Happy Anniversary KAITO 2/17/2024",
         "assetbundleName": "honor_2173",
         "levels": [
             {
@@ -40882,7 +40882,7 @@
         "seq": 200017,
         "groupId": 266,
         "honorRarity": "low",
-        "name": "Christmas 2023",
+        "name": "クリスマス2023",
         "assetbundleName": "honor_2380",
         "levels": [
             {
@@ -40898,7 +40898,7 @@
         "seq": 200018,
         "groupId": 267,
         "honorRarity": "low",
-        "name": "Countdown 2024",
+        "name": "カウントダウン2024",
         "assetbundleName": "honor_2381",
         "levels": [
             {
@@ -56994,7 +56994,7 @@
         "seq": 18700,
         "groupId": 321,
         "honorRarity": "low",
-        "name": "Happy Birthday Honami Oct.27,2024",
+        "name": "Happy Birthday Honami 10/27/2024",
         "assetbundleName": "honor_3225",
         "levels": [
             {
@@ -57026,7 +57026,7 @@
         "seq": 19000,
         "groupId": 324,
         "honorRarity": "low",
-        "name": "Happy Birthday Haruka Oct.05,2024",
+        "name": "Happy Birthday Haruka 10/5/2024",
         "assetbundleName": "honor_3228",
         "levels": [
             {
@@ -57042,7 +57042,7 @@
         "seq": 19200,
         "groupId": 326,
         "honorRarity": "low",
-        "name": "Happy Birthday Shizuku Dec.6,2024",
+        "name": "Happy Birthday Shizuku 12/6/2024",
         "assetbundleName": "honor_3230",
         "levels": [
             {
@@ -57058,7 +57058,7 @@
         "seq": 19500,
         "groupId": 329,
         "honorRarity": "low",
-        "name": "Happy Birthday Akito Nov.12,2024",
+        "name": "Happy Birthday Akito 11/12/2024",
         "assetbundleName": "honor_3233",
         "levels": [
             {
@@ -57074,7 +57074,7 @@
         "seq": 18000,
         "groupId": 340,
         "honorRarity": "low",
-        "name": "Happy Anniversary Rin Dec.27,2024",
+        "name": "Happy Anniversary Rin 12/27/2024",
         "assetbundleName": "honor_3244",
         "levels": [
             {
@@ -57090,7 +57090,7 @@
         "seq": 18100,
         "groupId": 341,
         "honorRarity": "low",
-        "name": "Happy Anniversary Len Dec.27,2024",
+        "name": "Happy Anniversary Len 12/27/2024",
         "assetbundleName": "honor_3245",
         "levels": [
             {
@@ -57106,7 +57106,7 @@
         "seq": 18300,
         "groupId": 343,
         "honorRarity": "low",
-        "name": "Happy Anniversary MEIKO Nov.5,2024",
+        "name": "Happy Anniversary MEIKO 11/5/2024",
         "assetbundleName": "honor_3247",
         "levels": [
             {
@@ -62690,14 +62690,14 @@
         "seq": 200028,
         "groupId": 361,
         "honorRarity": "low",
-        "name": "クリスマス2024",
+        "name": "Christmas 2024",
         "assetbundleName": "honor_3597",
         "levels": [
             {
                 "honorId": 3597,
                 "level": 1,
                 "bonus": 0,
-                "description": "「クリスマス2024ライブ」に参加しよう。"
+                "description": "Join the Christmas Show 2024."
             }
         ]
     },
@@ -62706,14 +62706,14 @@
         "seq": 200029,
         "groupId": 362,
         "honorRarity": "low",
-        "name": "カウントダウン2025",
+        "name": "Countdown 2025",
         "assetbundleName": "honor_3598",
         "levels": [
             {
                 "honorId": 3598,
                 "level": 1,
                 "bonus": 0,
-                "description": "「カウントダウン2025ライブ」に参加しよう。"
+                "description": "Join the New Year's Countdown Show 2025."
             }
         ]
     },
@@ -62722,14 +62722,14 @@
         "seq": 200030,
         "groupId": 363,
         "honorRarity": "low",
-        "name": "ハッピーニューイヤー2025",
+        "name": "Happy New Year 2025",
         "assetbundleName": "honor_3599",
         "levels": [
             {
                 "honorId": 3599,
                 "level": 1,
                 "bonus": 0,
-                "description": "「ハッピーニューイヤー2025ライブ」に参加しよう。"
+                "description": "Join the Happy New Year 2025 Show."
             }
         ]
     },
@@ -63258,6 +63258,431 @@
                 "level": 1,
                 "bonus": 0,
                 "description": "View all story episodes for the event Beside Unchanging Warmth."
+            }
+        ]
+    },
+    {
+        "id": 3633,
+        "seq": 300601,
+        "groupId": 365,
+        "honorRarity": "highest",
+        "name": "Mastery Rank",
+        "assetbundleName": "common/tier_25",
+        "honorTypeId": 25,
+        "levels": [
+            {
+                "honorId": 3633,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Master in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3634,
+        "seq": 300602,
+        "groupId": 365,
+        "honorRarity": "high",
+        "name": "Diamond Class 4",
+        "assetbundleName": "common/tier_24",
+        "honorTypeId": 24,
+        "levels": [
+            {
+                "honorId": 3634,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 4 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3635,
+        "seq": 300603,
+        "groupId": 365,
+        "honorRarity": "high",
+        "name": "Diamond Class 3",
+        "assetbundleName": "common/tier_23",
+        "honorTypeId": 23,
+        "levels": [
+            {
+                "honorId": 3635,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 3 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3636,
+        "seq": 300604,
+        "groupId": 365,
+        "honorRarity": "high",
+        "name": "Diamond Class 2",
+        "assetbundleName": "common/tier_22",
+        "honorTypeId": 22,
+        "levels": [
+            {
+                "honorId": 3636,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 2 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3637,
+        "seq": 300605,
+        "groupId": 365,
+        "honorRarity": "high",
+        "name": "Diamond Class 1",
+        "assetbundleName": "common/tier_21",
+        "honorTypeId": 21,
+        "levels": [
+            {
+                "honorId": 3637,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Diamond Class 1 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3638,
+        "seq": 300606,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Platinum Class 4",
+        "assetbundleName": "common/tier_20",
+        "honorTypeId": 20,
+        "levels": [
+            {
+                "honorId": 3638,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 4 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3639,
+        "seq": 300607,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Platinum Class 3",
+        "assetbundleName": "common/tier_19",
+        "honorTypeId": 19,
+        "levels": [
+            {
+                "honorId": 3639,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 3 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3640,
+        "seq": 300608,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Platinum Class 2",
+        "assetbundleName": "common/tier_18",
+        "honorTypeId": 18,
+        "levels": [
+            {
+                "honorId": 3640,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 2 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3641,
+        "seq": 300609,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Platinum Class 1",
+        "assetbundleName": "common/tier_17",
+        "honorTypeId": 17,
+        "levels": [
+            {
+                "honorId": 3641,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Platinum Class 1 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3642,
+        "seq": 300610,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Gold Class 4",
+        "assetbundleName": "common/tier_16",
+        "honorTypeId": 16,
+        "levels": [
+            {
+                "honorId": 3642,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Class 4 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3643,
+        "seq": 300611,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Gold Class 3",
+        "assetbundleName": "common/tier_15",
+        "honorTypeId": 15,
+        "levels": [
+            {
+                "honorId": 3643,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Class 3 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3644,
+        "seq": 300612,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Gold Class 2",
+        "assetbundleName": "common/tier_14",
+        "honorTypeId": 14,
+        "levels": [
+            {
+                "honorId": 3644,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Class 2 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3645,
+        "seq": 300613,
+        "groupId": 365,
+        "honorRarity": "middle",
+        "name": "Gold Class 1",
+        "assetbundleName": "common/tier_13",
+        "honorTypeId": 13,
+        "levels": [
+            {
+                "honorId": 3645,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Gold Class 1 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3646,
+        "seq": 300614,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Silver Class 4",
+        "assetbundleName": "common/tier_12",
+        "honorTypeId": 12,
+        "levels": [
+            {
+                "honorId": 3646,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 4 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3647,
+        "seq": 300615,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Silver Class 3",
+        "assetbundleName": "common/tier_11",
+        "honorTypeId": 11,
+        "levels": [
+            {
+                "honorId": 3647,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 3 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3648,
+        "seq": 300616,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Silver Class 2",
+        "assetbundleName": "common/tier_10",
+        "honorTypeId": 10,
+        "levels": [
+            {
+                "honorId": 3648,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 2 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3649,
+        "seq": 300617,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Silver Class 1",
+        "assetbundleName": "common/tier_09",
+        "honorTypeId": 9,
+        "levels": [
+            {
+                "honorId": 3649,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Silver Class 1 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3650,
+        "seq": 300618,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Bronze Class 4",
+        "assetbundleName": "common/tier_08",
+        "honorTypeId": 8,
+        "levels": [
+            {
+                "honorId": 3650,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 4 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3651,
+        "seq": 300619,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Bronze Class 3",
+        "assetbundleName": "common/tier_07",
+        "honorTypeId": 7,
+        "levels": [
+            {
+                "honorId": 3651,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 3 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3652,
+        "seq": 300620,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Bronze Class 2",
+        "assetbundleName": "common/tier_06",
+        "honorTypeId": 6,
+        "levels": [
+            {
+                "honorId": 3652,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 2 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3653,
+        "seq": 300621,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Bronze Class 1",
+        "assetbundleName": "common/tier_05",
+        "honorTypeId": 5,
+        "levels": [
+            {
+                "honorId": 3653,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Bronze Class 1 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3654,
+        "seq": 300622,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Beginner Class 4",
+        "assetbundleName": "common/tier_04",
+        "honorTypeId": 4,
+        "levels": [
+            {
+                "honorId": 3654,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 4 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3655,
+        "seq": 300623,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Beginner Class 3",
+        "assetbundleName": "common/tier_03",
+        "honorTypeId": 3,
+        "levels": [
+            {
+                "honorId": 3655,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 3 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3656,
+        "seq": 300624,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Beginner Class 2",
+        "assetbundleName": "common/tier_02",
+        "honorTypeId": 2,
+        "levels": [
+            {
+                "honorId": 3656,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 2 in Ranked Matches Winter 2025."
+            }
+        ]
+    },
+    {
+        "id": 3657,
+        "seq": 300625,
+        "groupId": 365,
+        "honorRarity": "low",
+        "name": "Beginner Class 1",
+        "assetbundleName": "common/tier_01",
+        "honorTypeId": 1,
+        "levels": [
+            {
+                "honorId": 3657,
+                "level": 1,
+                "bonus": 0,
+                "description": "Reach Beginner Class 1 in Ranked Matches Winter 2025."
             }
         ]
     },
