@@ -7138,7 +7138,7 @@
     },
     {
         "id": 341,
-        "seq": 1141901,
+        "seq": 1142001,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7989,7 +7989,7 @@
     },
     {
         "id": 378,
-        "seq": 1642101,
+        "seq": 1642201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8219,7 +8219,7 @@
     },
     {
         "id": 388,
-        "seq": 1141601,
+        "seq": 1141701,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -8403,7 +8403,7 @@
     },
     {
         "id": 398,
-        "seq": 2441701,
+        "seq": 2441801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8495,12 +8495,12 @@
     },
     {
         "id": 402,
-        "seq": 1642801,
+        "seq": 1642901,
         "releaseConditionId": 5,
         "categories": [
             "mv"
         ],
-        "title": "エンヴィーベイビー",
+        "title": "Envy Baby",
         "pronunciation": "えんヴぃーべいびー",
         "creatorArtistId": 77,
         "lyricist": "Kanaria",
@@ -8564,7 +8564,7 @@
     },
     {
         "id": 407,
-        "seq": 1242201,
+        "seq": 1242301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8610,7 +8610,7 @@
     },
     {
         "id": 409,
-        "seq": 2642301,
+        "seq": 2642401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8656,7 +8656,7 @@
     },
     {
         "id": 413,
-        "seq": 1341501,
+        "seq": 1341601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8725,7 +8725,7 @@
     },
     {
         "id": 417,
-        "seq": 1343001,
+        "seq": 1343101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8748,7 +8748,7 @@
     },
     {
         "id": 418,
-        "seq": 1442401,
+        "seq": 1442501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8909,7 +8909,7 @@
     },
     {
         "id": 430,
-        "seq": 1142901,
+        "seq": 1143001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8932,7 +8932,7 @@
     },
     {
         "id": 432,
-        "seq": 1542601,
+        "seq": 1542701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8955,7 +8955,7 @@
     },
     {
         "id": 433,
-        "seq": 1142701,
+        "seq": 1142801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8978,7 +8978,7 @@
     },
     {
         "id": 438,
-        "seq": 1243101,
+        "seq": 1243201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9001,7 +9001,7 @@
     },
     {
         "id": 439,
-        "seq": 1142501,
+        "seq": 1142601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9024,7 +9024,7 @@
     },
     {
         "id": 440,
-        "seq": 2141801,
+        "seq": 2141901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9070,7 +9070,7 @@
     },
     {
         "id": 446,
-        "seq": 1142001,
+        "seq": 1142101,
         "releaseConditionId": 5,
         "categories": [
             "image"
