@@ -18862,7 +18862,7 @@
         "gachaId": 418,
         "assetbundleName": "ab_gacha_418",
         "startAt": 1736280000000,
-        "endAt": 1737532799000,
+        "endAt": 1740211199000,
         "gachaCeilExchanges": [
             {
                 "id": 816,
@@ -18870,7 +18870,7 @@
                 "seq": 1,
                 "resourceBoxId": 698,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "substituteLimit": 10,
                 "gachaCeilExchangeCost": {
@@ -18895,7 +18895,7 @@
                 "seq": 2,
                 "resourceBoxId": 699,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "substituteLimit": 10,
                 "gachaCeilExchangeCost": {
@@ -18920,7 +18920,7 @@
                 "seq": 3,
                 "resourceBoxId": 700,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "substituteLimit": 10,
                 "gachaCeilExchangeCost": {
@@ -18945,7 +18945,7 @@
                 "seq": 4,
                 "resourceBoxId": 701,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "substituteLimit": 10,
                 "gachaCeilExchangeCost": {
@@ -18970,7 +18970,7 @@
                 "seq": 5,
                 "resourceBoxId": 702,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "substituteLimit": 10,
                 "gachaCeilExchangeCost": {
@@ -18995,7 +18995,7 @@
                 "seq": 6,
                 "resourceBoxId": 703,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "substituteLimit": 10,
                 "gachaCeilExchangeCost": {
@@ -19020,7 +19020,7 @@
                 "seq": 7,
                 "resourceBoxId": 704,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 822,
@@ -19037,7 +19037,7 @@
                 "seq": 8,
                 "resourceBoxId": 705,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 823,
@@ -19054,7 +19054,7 @@
                 "seq": 9,
                 "resourceBoxId": 706,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 824,
@@ -19071,7 +19071,7 @@
                 "seq": 10,
                 "resourceBoxId": 707,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 825,
@@ -19088,7 +19088,7 @@
                 "seq": 11,
                 "resourceBoxId": 708,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 826,
@@ -19105,7 +19105,7 @@
                 "seq": 12,
                 "resourceBoxId": 709,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 827,
@@ -19122,7 +19122,7 @@
                 "seq": 13,
                 "resourceBoxId": 710,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 828,
@@ -19139,7 +19139,7 @@
                 "seq": 14,
                 "resourceBoxId": 711,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 829,
@@ -19156,7 +19156,7 @@
                 "seq": 15,
                 "resourceBoxId": 712,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 830,
@@ -19173,7 +19173,7 @@
                 "seq": 16,
                 "resourceBoxId": 713,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 831,
@@ -19190,7 +19190,7 @@
                 "seq": 17,
                 "resourceBoxId": 714,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 832,
@@ -19207,7 +19207,7 @@
                 "seq": 18,
                 "resourceBoxId": 715,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 833,
@@ -19224,7 +19224,7 @@
                 "seq": 19,
                 "resourceBoxId": 716,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 834,
@@ -19241,7 +19241,7 @@
                 "seq": 20,
                 "resourceBoxId": 717,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 835,
@@ -19258,7 +19258,7 @@
                 "seq": 21,
                 "resourceBoxId": 718,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 836,
@@ -19275,7 +19275,7 @@
                 "seq": 22,
                 "resourceBoxId": 719,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 837,
@@ -19292,7 +19292,7 @@
                 "seq": 23,
                 "resourceBoxId": 720,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 838,
@@ -19309,7 +19309,7 @@
                 "seq": 24,
                 "resourceBoxId": 721,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 839,
@@ -19326,7 +19326,7 @@
                 "seq": 25,
                 "resourceBoxId": 722,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 840,
@@ -19343,7 +19343,7 @@
                 "seq": 26,
                 "resourceBoxId": 723,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeLabelType": "limited",
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 841,
@@ -19361,7 +19361,7 @@
                 "resourceBoxId": 724,
                 "exchangeLimit": 10,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 842,
                     "gachaCeilItemId": 241,
@@ -19377,7 +19377,7 @@
                 "seq": 28,
                 "resourceBoxId": 9999,
                 "startAt": 1736280000000,
-                "endAt": 1737532799000,
+                "endAt": 1740211199000,
                 "gachaCeilExchangeCost": {
                     "gachaCeilExchangeId": 843,
                     "gachaCeilItemId": 241,
