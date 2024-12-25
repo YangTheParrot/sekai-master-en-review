@@ -20,7 +20,8 @@
         "releasedAt": 1326873600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 2,
@@ -43,7 +44,8 @@
         "releasedAt": 1519718400000,
         "liveStageId": 1,
         "fillerSec": 8.98900032043457,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 3,
@@ -66,7 +68,8 @@
         "releasedAt": 1499500800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 6,
@@ -89,7 +92,8 @@
         "releasedAt": 1501833600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 8,
@@ -113,7 +117,8 @@
         "releasedAt": 1284364800000,
         "liveStageId": 1,
         "fillerSec": 7.571400165557861,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 10,
@@ -137,7 +142,8 @@
         "releasedAt": 1290412800000,
         "liveStageId": 1,
         "fillerSec": 9.006999969482422,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 11,
@@ -161,7 +167,8 @@
         "releasedAt": 1374825600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 13,
@@ -184,7 +191,8 @@
         "releasedAt": 1267430400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 15,
@@ -207,7 +215,8 @@
         "releasedAt": 1405670400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 18,
@@ -230,7 +239,8 @@
         "releasedAt": 1408435200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 19,
@@ -253,7 +263,8 @@
         "releasedAt": 1476691200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 21,
@@ -276,7 +287,8 @@
         "releasedAt": 1466323200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 22,
@@ -299,7 +311,8 @@
         "releasedAt": 1502006400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 26,
@@ -322,7 +335,8 @@
         "releasedAt": 1531468800000,
         "liveStageId": 1,
         "fillerSec": 7.562300205230713,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 27,
@@ -345,7 +359,8 @@
         "releasedAt": 1246694400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 28,
@@ -368,7 +383,8 @@
         "releasedAt": 1434096000000,
         "liveStageId": 1,
         "fillerSec": 7.828000068664551,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 36,
@@ -392,7 +408,8 @@
         "releasedAt": 1195718400000,
         "liveStageId": 1,
         "fillerSec": 9.562999725341797,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 38,
@@ -415,7 +432,8 @@
         "releasedAt": 1362902400000,
         "liveStageId": 1,
         "fillerSec": 8.973999977111816,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 41,
@@ -439,7 +457,8 @@
         "releasedAt": 1301731200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 43,
@@ -462,7 +481,8 @@
         "releasedAt": 1403942400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 44,
@@ -485,7 +505,8 @@
         "releasedAt": 1436342400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 45,
@@ -508,7 +529,8 @@
         "releasedAt": 1467187200000,
         "liveStageId": 1,
         "fillerSec": 8.98330020904541,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 46,
@@ -531,7 +553,8 @@
         "releasedAt": 1530864000000,
         "liveStageId": 1,
         "fillerSec": 8.899999618530273,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 47,
@@ -554,7 +577,8 @@
         "releasedAt": 1197014400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 48,
@@ -577,7 +601,8 @@
         "releasedAt": 1212220800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 49,
@@ -600,7 +625,8 @@
         "releasedAt": 1207641600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 50,
@@ -623,7 +649,8 @@
         "releasedAt": 1394611200000,
         "liveStageId": 1,
         "fillerSec": 7.956999778747559,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 51,
@@ -646,7 +673,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 52,
@@ -670,7 +698,8 @@
         "releasedAt": 1604736000000,
         "liveStageId": 1,
         "fillerSec": 11.069000244140625,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 54,
@@ -693,14 +722,16 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 55,
         "seq": 2404301,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "Forward",
         "pronunciation": "forward",
@@ -716,7 +747,8 @@
         "releasedAt": 1607414400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 57,
@@ -739,7 +771,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.033300399780273,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 60,
@@ -762,7 +795,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 61,
@@ -785,7 +819,8 @@
         "releasedAt": 1602748800000,
         "liveStageId": 1,
         "fillerSec": 9.005000114440918,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 62,
@@ -809,7 +844,8 @@
         "releasedAt": 1603180800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 63,
@@ -832,7 +868,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 8.982999801635742,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 64,
@@ -855,7 +892,8 @@
         "releasedAt": 1603008000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 66,
@@ -878,7 +916,8 @@
         "releasedAt": 1279612800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 67,
@@ -902,7 +941,8 @@
         "releasedAt": 1358668800000,
         "liveStageId": 1,
         "fillerSec": 8.996999740600586,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 68,
@@ -925,7 +965,8 @@
         "releasedAt": 1481011200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 69,
@@ -949,7 +990,8 @@
         "releasedAt": 1473494400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 70,
@@ -972,7 +1014,8 @@
         "releasedAt": 1518768000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 71,
@@ -995,7 +1038,8 @@
         "releasedAt": 1402560000000,
         "liveStageId": 1,
         "fillerSec": 7.1570000648498535,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 72,
@@ -1018,7 +1062,8 @@
         "releasedAt": 1559289600000,
         "liveStageId": 1,
         "fillerSec": 7.782800197601318,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 73,
@@ -1041,7 +1086,8 @@
         "releasedAt": 1498723200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 74,
@@ -1065,7 +1111,8 @@
         "releasedAt": 1354176000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 75,
@@ -1089,7 +1136,8 @@
         "releasedAt": 1393228800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 76,
@@ -1112,7 +1160,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 77,
@@ -1135,7 +1184,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 78,
@@ -1159,7 +1209,8 @@
         "releasedAt": 1415952000000,
         "liveStageId": 1,
         "fillerSec": 9.68179988861084,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 81,
@@ -1182,7 +1233,8 @@
         "releasedAt": 1361088000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 82,
@@ -1205,7 +1257,8 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 83,
@@ -1228,7 +1281,8 @@
         "releasedAt": 1572076800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 84,
@@ -1251,7 +1305,8 @@
         "releasedAt": 1576828800000,
         "liveStageId": 1,
         "fillerSec": 9.033300399780273,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 85,
@@ -1274,7 +1329,8 @@
         "releasedAt": 1293868800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 86,
@@ -1297,7 +1353,8 @@
         "releasedAt": 1404806400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 87,
@@ -1321,7 +1378,8 @@
         "releasedAt": 1402387200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 88,
@@ -1345,7 +1403,8 @@
         "releasedAt": 1456128000000,
         "liveStageId": 1,
         "fillerSec": 9.064000129699707,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 89,
@@ -1368,7 +1427,8 @@
         "releasedAt": 1611907200000,
         "liveStageId": 1,
         "fillerSec": 8.211000442504883,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 90,
@@ -1391,7 +1451,8 @@
         "releasedAt": 1614326400000,
         "liveStageId": 1,
         "fillerSec": 7.888899803161621,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 91,
@@ -1414,7 +1475,8 @@
         "releasedAt": 1507622400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 92,
@@ -1438,7 +1500,8 @@
         "releasedAt": 1547798400000,
         "liveStageId": 1,
         "fillerSec": 8.137800216674805,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 93,
@@ -1461,7 +1524,8 @@
         "releasedAt": 1597305600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 94,
@@ -1484,7 +1548,8 @@
         "releasedAt": 1326182400000,
         "liveStageId": 1,
         "fillerSec": 7.714300155639648,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 95,
@@ -1508,7 +1573,8 @@
         "releasedAt": 1351497600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 96,
@@ -1531,7 +1597,8 @@
         "releasedAt": 1237881600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 97,
@@ -1554,7 +1621,8 @@
         "releasedAt": 1610265600000,
         "liveStageId": 1,
         "fillerSec": 8.285699844360352,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 98,
@@ -1578,7 +1646,8 @@
         "releasedAt": 1362384000000,
         "liveStageId": 1,
         "fillerSec": 9.01669979095459,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 99,
@@ -1601,7 +1670,8 @@
         "releasedAt": 1605772800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 100,
@@ -1624,7 +1694,8 @@
         "releasedAt": 1412755200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 101,
@@ -1647,7 +1718,8 @@
         "releasedAt": 1612080000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 102,
@@ -1670,7 +1742,8 @@
         "releasedAt": 1575360000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 103,
@@ -1693,7 +1766,8 @@
         "releasedAt": 1608451200000,
         "liveStageId": 1,
         "fillerSec": 8.217399597167969,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 104,
@@ -1716,7 +1790,8 @@
         "releasedAt": 1535356800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 105,
@@ -1739,7 +1814,8 @@
         "releasedAt": 1614499200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 106,
@@ -1762,7 +1838,8 @@
         "releasedAt": 1511856000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 107,
@@ -1785,7 +1862,8 @@
         "releasedAt": 1398412800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 108,
@@ -1808,7 +1886,8 @@
         "releasedAt": 1595404800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 109,
@@ -1831,7 +1910,8 @@
         "releasedAt": 1411545600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 110,
@@ -1854,14 +1934,16 @@
         "releasedAt": 1316246400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 111,
         "seq": 1610701,
         "releaseConditionId": 5,
         "categories": [
-            "original"
+            "original",
+            "mv_2d"
         ],
         "title": "Cutlery",
         "pronunciation": "cutlery",
@@ -1877,7 +1959,8 @@
         "releasedAt": 1514188800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 112,
@@ -1900,7 +1983,8 @@
         "releasedAt": 1617091200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 113,
@@ -1923,7 +2007,8 @@
         "releasedAt": 1266134400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 114,
@@ -1946,7 +2031,8 @@
         "releasedAt": 1251619200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 115,
@@ -1969,7 +2055,8 @@
         "releasedAt": 1503388800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 116,
@@ -1993,7 +2080,8 @@
         "releasedAt": 1618819200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 117,
@@ -2016,7 +2104,8 @@
         "releasedAt": 1346313600000,
         "liveStageId": 1,
         "fillerSec": 9.3125,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 118,
@@ -2039,7 +2128,8 @@
         "releasedAt": 1243152000000,
         "liveStageId": 1,
         "fillerSec": 9.013500213623047,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 119,
@@ -2062,7 +2152,8 @@
         "releasedAt": 1274169600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 120,
@@ -2085,7 +2176,8 @@
         "releasedAt": 1381305600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 121,
@@ -2108,7 +2200,8 @@
         "releasedAt": 1239004800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 122,
@@ -2131,7 +2224,8 @@
         "releasedAt": 1507795200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 123,
@@ -2155,7 +2249,8 @@
         "releasedAt": 1393574400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 124,
@@ -2178,7 +2273,8 @@
         "releasedAt": 1190275200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 125,
@@ -2201,7 +2297,8 @@
         "releasedAt": 1587888000000,
         "liveStageId": 1,
         "fillerSec": 8.294099807739258,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 126,
@@ -2225,7 +2322,8 @@
         "releasedAt": 1620460800000,
         "liveStageId": 1,
         "fillerSec": 8.032299995422363,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 127,
@@ -2249,7 +2347,8 @@
         "releasedAt": 1624089600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 128,
@@ -2272,7 +2371,8 @@
         "releasedAt": 1606723200000,
         "liveStageId": 1,
         "fillerSec": 9.324299812316895,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 129,
@@ -2296,7 +2396,8 @@
         "releasedAt": 1546588800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 130,
@@ -2319,7 +2420,8 @@
         "releasedAt": 1625644800000,
         "liveStageId": 1,
         "fillerSec": 7.615900039672852,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 131,
@@ -2342,7 +2444,8 @@
         "releasedAt": 1278662400000,
         "liveStageId": 1,
         "fillerSec": 8.699999809265137,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 132,
@@ -2365,7 +2468,8 @@
         "releasedAt": 1618992000000,
         "liveStageId": 1,
         "fillerSec": 9.413700103759766,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 133,
@@ -2389,7 +2493,8 @@
         "releasedAt": 1524816000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 134,
@@ -2413,7 +2518,8 @@
         "releasedAt": 1555142400000,
         "liveStageId": 1,
         "fillerSec": 8.329000473022461,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 135,
@@ -2436,7 +2542,8 @@
         "releasedAt": 1334131200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 136,
@@ -2459,7 +2566,8 @@
         "releasedAt": 1342857600000,
         "liveStageId": 1,
         "fillerSec": 8.966699600219727,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 137,
@@ -2482,7 +2590,8 @@
         "releasedAt": 1611820800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 138,
@@ -2505,7 +2614,8 @@
         "releasedAt": 1596355200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 139,
@@ -2528,7 +2638,8 @@
         "releasedAt": 1573891200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 140,
@@ -2551,7 +2662,8 @@
         "releasedAt": 1629273600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 141,
@@ -2575,7 +2687,8 @@
         "releasedAt": 1632988800000,
         "liveStageId": 1,
         "fillerSec": 8.991600036621094,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 142,
@@ -2598,7 +2711,8 @@
         "releasedAt": 1632902400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 143,
@@ -2622,7 +2736,8 @@
         "releasedAt": 1566720000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 144,
@@ -2645,7 +2760,8 @@
         "releasedAt": 1621584000000,
         "liveStageId": 1,
         "fillerSec": 8.5,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 145,
@@ -2668,7 +2784,8 @@
         "releasedAt": 1533196800000,
         "liveStageId": 1,
         "fillerSec": 7.814000129699707,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 146,
@@ -2691,7 +2808,8 @@
         "releasedAt": 1297843200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 147,
@@ -2715,7 +2833,8 @@
         "releasedAt": 1310716800000,
         "liveStageId": 1,
         "fillerSec": 8.991700172424316,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 148,
@@ -2739,7 +2858,8 @@
         "releasedAt": 1394697600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 149,
@@ -2762,7 +2882,8 @@
         "releasedAt": 1624262400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 150,
@@ -2785,7 +2906,8 @@
         "releasedAt": 1369641600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 151,
@@ -2808,7 +2930,8 @@
         "releasedAt": 1614326400000,
         "liveStageId": 1,
         "fillerSec": 9.335000038146973,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 152,
@@ -2831,7 +2954,8 @@
         "releasedAt": 1518422400000,
         "liveStageId": 1,
         "fillerSec": 8.586199760437012,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 153,
@@ -2854,7 +2978,8 @@
         "releasedAt": 1490428800000,
         "liveStageId": 1,
         "fillerSec": 8.0625,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 154,
@@ -2877,7 +3002,8 @@
         "releasedAt": 1340697600000,
         "liveStageId": 1,
         "fillerSec": 8.142000198364258,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 155,
@@ -2900,7 +3026,8 @@
         "releasedAt": 1282464000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 156,
@@ -2923,7 +3050,8 @@
         "releasedAt": 1625817600000,
         "liveStageId": 1,
         "fillerSec": 8.12399959564209,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 157,
@@ -2946,7 +3074,8 @@
         "releasedAt": 1515052800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 158,
@@ -2970,7 +3099,8 @@
         "releasedAt": 1495180800000,
         "liveStageId": 1,
         "fillerSec": 8.220000267028809,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 159,
@@ -2994,7 +3124,8 @@
         "releasedAt": 1637222400000,
         "liveStageId": 1,
         "fillerSec": 8.368499755859375,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 160,
@@ -3017,7 +3148,8 @@
         "releasedAt": 1635494400000,
         "liveStageId": 1,
         "fillerSec": 8.411800384521484,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 161,
@@ -3040,7 +3172,8 @@
         "releasedAt": 1630483200000,
         "liveStageId": 1,
         "fillerSec": 8.98330020904541,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 162,
@@ -3064,7 +3197,8 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "musicCollaborationId": 1,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 163,
@@ -3088,7 +3222,8 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "musicCollaborationId": 1,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 164,
@@ -3112,7 +3247,8 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "musicCollaborationId": 1,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 165,
@@ -3135,7 +3271,8 @@
         "releasedAt": 1619251200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 166,
@@ -3158,7 +3295,8 @@
         "releasedAt": 1629446400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 167,
@@ -3181,7 +3319,8 @@
         "releasedAt": 1565942400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 168,
@@ -3204,7 +3343,8 @@
         "releasedAt": 1598774400000,
         "liveStageId": 1,
         "fillerSec": 9.392200469970703,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 169,
@@ -3228,7 +3368,8 @@
         "releasedAt": 1531900800000,
         "liveStageId": 1,
         "fillerSec": 9.012499809265137,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 170,
@@ -3252,7 +3393,8 @@
         "releasedAt": 1581062400000,
         "liveStageId": 1,
         "fillerSec": 9.588199615478516,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 171,
@@ -3275,7 +3417,8 @@
         "releasedAt": 1317369600000,
         "liveStageId": 1,
         "fillerSec": 9.300000190734863,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 172,
@@ -3298,7 +3441,8 @@
         "releasedAt": 1412928000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 173,
@@ -3321,7 +3465,8 @@
         "releasedAt": 1631260800000,
         "liveStageId": 1,
         "fillerSec": 8.991000175476074,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 174,
@@ -3345,7 +3490,8 @@
         "releasedAt": 1345017600000,
         "liveStageId": 1,
         "fillerSec": 8.17240047454834,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 175,
@@ -3368,7 +3514,8 @@
         "releasedAt": 1496217600000,
         "liveStageId": 1,
         "fillerSec": 8.668499946594238,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 176,
@@ -3391,7 +3538,8 @@
         "releasedAt": 1633248000000,
         "liveStageId": 1,
         "fillerSec": 8.454500198364258,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 177,
@@ -3414,7 +3562,8 @@
         "releasedAt": 1241337600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 178,
@@ -3437,7 +3586,8 @@
         "releasedAt": 1642579200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 179,
@@ -3460,7 +3610,8 @@
         "releasedAt": 1229760000000,
         "liveStageId": 1,
         "fillerSec": 8.272700309753418,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 180,
@@ -3484,7 +3635,8 @@
         "releasedAt": 1640764800000,
         "liveStageId": 1,
         "fillerSec": 8.548500061035156,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 181,
@@ -3508,7 +3660,8 @@
         "releasedAt": 1425628800000,
         "liveStageId": 1,
         "fillerSec": 8.98330020904541,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 182,
@@ -3532,7 +3685,8 @@
         "releasedAt": 1644998400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 183,
@@ -3555,7 +3709,8 @@
         "releasedAt": 1490169600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 184,
@@ -3578,7 +3733,8 @@
         "releasedAt": 1429689600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 185,
@@ -3601,7 +3757,8 @@
         "releasedAt": 1626595200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 186,
@@ -3624,7 +3781,8 @@
         "releasedAt": 1629446400000,
         "liveStageId": 1,
         "fillerSec": 8.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 187,
@@ -3647,7 +3805,8 @@
         "releasedAt": 1635667200000,
         "liveStageId": 1,
         "fillerSec": 8.085000038146973,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 188,
@@ -3671,7 +3830,8 @@
         "releasedAt": 1580371200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 189,
@@ -3694,7 +3854,8 @@
         "releasedAt": 1648454400000,
         "liveStageId": 1,
         "fillerSec": 8.991700172424316,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 190,
@@ -3717,7 +3878,8 @@
         "releasedAt": 1207468800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 191,
@@ -3740,7 +3902,8 @@
         "releasedAt": 1209456000000,
         "liveStageId": 1,
         "fillerSec": 7.5,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 192,
@@ -3763,7 +3926,8 @@
         "releasedAt": 1639555200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 193,
@@ -3786,7 +3950,8 @@
         "releasedAt": 1639123200000,
         "liveStageId": 1,
         "fillerSec": 7.309899806976318,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 194,
@@ -3810,7 +3975,8 @@
         "releasedAt": 1479456000000,
         "liveStageId": 1,
         "fillerSec": 9.54539966583252,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 195,
@@ -3834,7 +4000,8 @@
         "releasedAt": 1473926400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 196,
@@ -3857,7 +4024,8 @@
         "releasedAt": 1651132800000,
         "liveStageId": 1,
         "fillerSec": 7.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 197,
@@ -3880,7 +4048,8 @@
         "releasedAt": 1630396800000,
         "liveStageId": 1,
         "fillerSec": 9.895500183105469,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 198,
@@ -3903,7 +4072,8 @@
         "releasedAt": 1586764800000,
         "liveStageId": 1,
         "fillerSec": 9.342900276184082,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 199,
@@ -3926,7 +4096,8 @@
         "releasedAt": 1452240000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 200,
@@ -3949,7 +4120,8 @@
         "releasedAt": 1526025600000,
         "liveStageId": 1,
         "fillerSec": 7.709700107574463,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 201,
@@ -3972,11 +4144,12 @@
         "releasedAt": 1391760000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 202,
-        "seq": 1130401,
+        "seq": 1129801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -3995,7 +4168,8 @@
         "releasedAt": 1358928000000,
         "liveStageId": 1,
         "fillerSec": 9.220999717712402,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 203,
@@ -4018,7 +4192,8 @@
         "releasedAt": 1642752000000,
         "liveStageId": 1,
         "fillerSec": 8.307700157165527,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 204,
@@ -4041,7 +4216,8 @@
         "releasedAt": 1603440000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 205,
@@ -4064,7 +4240,8 @@
         "releasedAt": 1619510400000,
         "liveStageId": 1,
         "fillerSec": 8.51449966430664,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 206,
@@ -4087,7 +4264,8 @@
         "releasedAt": 1640678400000,
         "liveStageId": 1,
         "fillerSec": 8.405900001525879,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 207,
@@ -4110,7 +4288,8 @@
         "releasedAt": 1645171200000,
         "liveStageId": 1,
         "fillerSec": 8.545499801635742,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 208,
@@ -4134,7 +4313,8 @@
         "releasedAt": 1548316800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 209,
@@ -4157,7 +4337,8 @@
         "releasedAt": 1646985600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 210,
@@ -4180,7 +4361,8 @@
         "releasedAt": 1489046400000,
         "liveStageId": 1,
         "fillerSec": 8.07699966430664,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 211,
@@ -4204,7 +4386,8 @@
         "releasedAt": 1651996800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 212,
@@ -4227,7 +4410,8 @@
         "releasedAt": 1656403200000,
         "liveStageId": 1,
         "fillerSec": 9.531000137329102,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 213,
@@ -4251,11 +4435,12 @@
         "releasedAt": 1615276800000,
         "liveStageId": 1,
         "fillerSec": 8.617600440979004,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 214,
-        "seq": 1130301,
+        "seq": 1129701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -4274,7 +4459,8 @@
         "releasedAt": 1351756800000,
         "liveStageId": 1,
         "fillerSec": 8.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 215,
@@ -4297,7 +4483,8 @@
         "releasedAt": 1638000000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 216,
@@ -4320,7 +4507,8 @@
         "releasedAt": 1234425600000,
         "liveStageId": 1,
         "fillerSec": 7.875,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 217,
@@ -4343,7 +4531,8 @@
         "releasedAt": 1658217600000,
         "liveStageId": 1,
         "fillerSec": 8.0600004196167,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 218,
@@ -4366,7 +4555,8 @@
         "releasedAt": 1431417600000,
         "liveStageId": 1,
         "fillerSec": 8.060999870300293,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 219,
@@ -4389,7 +4579,8 @@
         "releasedAt": 1500624000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 220,
@@ -4412,7 +4603,8 @@
         "releasedAt": 1382947200000,
         "liveStageId": 1,
         "fillerSec": 8.523799896240234,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 221,
@@ -4435,7 +4627,8 @@
         "releasedAt": 1282204800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 222,
@@ -4458,7 +4651,8 @@
         "releasedAt": 1229760000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 223,
@@ -4481,7 +4675,8 @@
         "releasedAt": 1209283200000,
         "liveStageId": 1,
         "fillerSec": 7.333399772644043,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 224,
@@ -4504,7 +4699,8 @@
         "releasedAt": 1649664000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 225,
@@ -4527,7 +4723,8 @@
         "releasedAt": 1631001600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 226,
@@ -4550,7 +4747,8 @@
         "releasedAt": 1278662400000,
         "liveStageId": 1,
         "fillerSec": 7.361299991607666,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 227,
@@ -4573,7 +4771,8 @@
         "releasedAt": 1643616000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 228,
@@ -4596,7 +4795,8 @@
         "releasedAt": 1413360000000,
         "liveStageId": 1,
         "fillerSec": 8.993300437927246,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 229,
@@ -4619,11 +4819,12 @@
         "releasedAt": 1350633600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 230,
-        "seq": 1718501,
+        "seq": 2718501,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -4643,11 +4844,12 @@
         "liveStageId": 1,
         "fillerSec": 7.604700088500977,
         "musicCollaborationId": 2,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 231,
-        "seq": 1718101,
+        "seq": 2718101,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -4667,11 +4869,12 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "musicCollaborationId": 2,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 232,
-        "seq": 1718201,
+        "seq": 2718201,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -4691,11 +4894,12 @@
         "liveStageId": 1,
         "fillerSec": 7.086699962615967,
         "musicCollaborationId": 2,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 233,
-        "seq": 1718301,
+        "seq": 2718301,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -4715,11 +4919,12 @@
         "liveStageId": 1,
         "fillerSec": 5.603000164031982,
         "musicCollaborationId": 2,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 234,
-        "seq": 1718401,
+        "seq": 2718401,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -4739,7 +4944,8 @@
         "liveStageId": 1,
         "fillerSec": 9.000900268554688,
         "musicCollaborationId": 2,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 235,
@@ -4763,7 +4969,8 @@
         "releasedAt": 1664524800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 236,
@@ -4786,7 +4993,8 @@
         "releasedAt": 1662537600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 237,
@@ -4809,7 +5017,8 @@
         "releasedAt": 1661760000000,
         "liveStageId": 1,
         "fillerSec": 7.491700172424316,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 238,
@@ -4832,7 +5041,8 @@
         "releasedAt": 1213344000000,
         "liveStageId": 1,
         "fillerSec": 8.109600067138672,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 239,
@@ -4855,7 +5065,8 @@
         "releasedAt": 1653033600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 240,
@@ -4878,7 +5089,8 @@
         "releasedAt": 1461398400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 242,
@@ -4901,7 +5113,8 @@
         "releasedAt": 1280390400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 243,
@@ -4924,7 +5137,8 @@
         "releasedAt": 1284019200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 244,
@@ -4947,7 +5161,8 @@
         "releasedAt": 1653984000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 245,
@@ -4970,7 +5185,8 @@
         "releasedAt": 1503129600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 246,
@@ -4993,7 +5209,8 @@
         "releasedAt": 1459843200000,
         "liveStageId": 1,
         "fillerSec": 8.991999626159668,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 247,
@@ -5016,7 +5233,8 @@
         "releasedAt": 1463212800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 248,
@@ -5039,7 +5257,8 @@
         "releasedAt": 1654848000000,
         "liveStageId": 1,
         "fillerSec": 8.345999717712402,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 249,
@@ -5062,7 +5281,8 @@
         "releasedAt": 1247385600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 250,
@@ -5085,7 +5305,8 @@
         "releasedAt": 1294646400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 251,
@@ -5108,7 +5329,8 @@
         "releasedAt": 1426060800000,
         "liveStageId": 1,
         "fillerSec": 8.189200401306152,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 252,
@@ -5131,7 +5353,8 @@
         "releasedAt": 1666166400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 253,
@@ -5155,7 +5378,8 @@
         "releasedAt": 1480752000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 254,
@@ -5178,7 +5402,8 @@
         "releasedAt": 1648540800000,
         "liveStageId": 1,
         "fillerSec": 8.991700172424316,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 255,
@@ -5201,7 +5426,8 @@
         "releasedAt": 1395907200000,
         "liveStageId": 1,
         "fillerSec": 8.601300239562988,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 256,
@@ -5224,7 +5450,8 @@
         "releasedAt": 1233820800000,
         "liveStageId": 1,
         "fillerSec": 7.922999858856201,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 257,
@@ -5247,11 +5474,12 @@
         "releasedAt": 1658390400000,
         "liveStageId": 1,
         "fillerSec": 8.679300308227539,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 258,
-        "seq": 1333101,
+        "seq": 1332501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -5270,7 +5498,8 @@
         "releasedAt": 1283328000000,
         "liveStageId": 1,
         "fillerSec": 8.124099731445312,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 259,
@@ -5293,7 +5522,8 @@
         "releasedAt": 1668758400000,
         "liveStageId": 1,
         "fillerSec": 8.016400337219238,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 260,
@@ -5316,7 +5546,8 @@
         "releasedAt": 1607673600000,
         "liveStageId": 1,
         "fillerSec": 8.984999656677246,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 261,
@@ -5339,7 +5570,8 @@
         "releasedAt": 1233302400000,
         "liveStageId": 1,
         "fillerSec": 8.25,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 262,
@@ -5362,7 +5594,8 @@
         "releasedAt": 1489046400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 263,
@@ -5385,7 +5618,8 @@
         "releasedAt": 1607673600000,
         "liveStageId": 1,
         "fillerSec": 8.109999656677246,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 264,
@@ -5408,7 +5642,8 @@
         "releasedAt": 1660118400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 265,
@@ -5431,7 +5666,8 @@
         "releasedAt": 1257408000000,
         "liveStageId": 1,
         "fillerSec": 8.996700286865234,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 266,
@@ -5454,7 +5690,8 @@
         "releasedAt": 1570608000000,
         "liveStageId": 1,
         "fillerSec": 7.536600112915039,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 267,
@@ -5477,7 +5714,8 @@
         "releasedAt": 1671436800000,
         "liveStageId": 1,
         "fillerSec": 8.347800254821777,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 268,
@@ -5500,14 +5738,15 @@
         "releasedAt": 1622620800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 269,
         "seq": 1325201,
         "releaseConditionId": 5,
         "categories": [
-            "image"
+            "mv_2d"
         ],
         "title": "Lonely Universe",
         "pronunciation": "lonelyuniverse",
@@ -5523,7 +5762,8 @@
         "releasedAt": 1554537600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 270,
@@ -5546,7 +5786,8 @@
         "releasedAt": 1546156800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 271,
@@ -5569,7 +5810,8 @@
         "releasedAt": 1455436800000,
         "liveStageId": 1,
         "fillerSec": 9.013299942016602,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 272,
@@ -5592,7 +5834,8 @@
         "releasedAt": 1565337600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 273,
@@ -5615,7 +5858,8 @@
         "releasedAt": 1655452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 274,
@@ -5638,7 +5882,8 @@
         "releasedAt": 1653638400000,
         "liveStageId": 1,
         "fillerSec": 7.18179988861084,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 275,
@@ -5661,11 +5906,12 @@
         "releasedAt": 1253347200000,
         "liveStageId": 1,
         "fillerSec": 9.015000343322754,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 276,
-        "seq": 1435401,
+        "seq": 1434801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -5684,7 +5930,8 @@
         "releasedAt": 1631865600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 277,
@@ -5707,7 +5954,8 @@
         "releasedAt": 1622880000000,
         "liveStageId": 1,
         "fillerSec": 8.647100448608398,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 278,
@@ -5730,7 +5978,8 @@
         "releasedAt": 1326614400000,
         "liveStageId": 1,
         "fillerSec": 8.991700172424316,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 279,
@@ -5753,7 +6002,8 @@
         "releasedAt": 1339747200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 280,
@@ -5776,7 +6026,8 @@
         "releasedAt": 1663660800000,
         "liveStageId": 1,
         "fillerSec": 9.48390007019043,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 281,
@@ -5799,11 +6050,12 @@
         "releasedAt": 1464940800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 282,
-        "seq": 2526901,
+        "seq": 2526701,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -5822,11 +6074,12 @@
         "releasedAt": 1674115200000,
         "liveStageId": 1,
         "fillerSec": 8.399999618530273,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 283,
-        "seq": 1128501,
+        "seq": 1127901,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -5845,7 +6098,8 @@
         "releasedAt": 1630051200000,
         "liveStageId": 1,
         "fillerSec": 8.055800437927246,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 284,
@@ -5868,7 +6122,8 @@
         "releasedAt": 1324368000000,
         "liveStageId": 1,
         "fillerSec": 8.059200286865234,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 285,
@@ -5891,11 +6146,12 @@
         "releasedAt": 1665475200000,
         "liveStageId": 1,
         "fillerSec": 8.996700286865234,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 286,
-        "seq": 1229401,
+        "seq": 1228801,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -5914,11 +6170,12 @@
         "releasedAt": 1314950400000,
         "liveStageId": 1,
         "fillerSec": 7.921899795532227,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 287,
-        "seq": 2328901,
+        "seq": 2328301,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -5937,7 +6194,8 @@
         "releasedAt": 1676620800000,
         "liveStageId": 1,
         "fillerSec": 7.936200141906738,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 288,
@@ -5960,7 +6218,8 @@
         "releasedAt": 1304323200000,
         "liveStageId": 1,
         "fillerSec": 8.275199890136719,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 289,
@@ -5983,7 +6242,8 @@
         "releasedAt": 1306569600000,
         "liveStageId": 1,
         "fillerSec": 8.399999618530273,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 291,
@@ -6006,7 +6266,8 @@
         "releasedAt": 1647676800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 292,
@@ -6029,11 +6290,12 @@
         "releasedAt": 1659254400000,
         "liveStageId": 1,
         "fillerSec": 7.554200172424316,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 293,
-        "seq": 1628701,
+        "seq": 1628101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6052,7 +6314,8 @@
         "releasedAt": 1337846400000,
         "liveStageId": 1,
         "fillerSec": 7.659999847412109,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 294,
@@ -6075,7 +6338,8 @@
         "releasedAt": 1364889600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 295,
@@ -6098,7 +6362,8 @@
         "releasedAt": 1669795200000,
         "liveStageId": 1,
         "fillerSec": 8.130399703979492,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 296,
@@ -6121,11 +6386,12 @@
         "releasedAt": 1362211200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 297,
-        "seq": 1127201,
+        "seq": 1126901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6144,7 +6410,8 @@
         "releasedAt": 1590739200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 298,
@@ -6167,11 +6434,12 @@
         "releasedAt": 1287129600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 299,
-        "seq": 1431001,
+        "seq": 1430401,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -6190,11 +6458,12 @@
         "releasedAt": 1536739200000,
         "liveStageId": 1,
         "fillerSec": 8.998299598693848,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 300,
-        "seq": 2631801,
+        "seq": 2631201,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -6213,11 +6482,12 @@
         "releasedAt": 1679990400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 301,
-        "seq": 1132801,
+        "seq": 1132201,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -6236,7 +6506,8 @@
         "releasedAt": 1635840000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 302,
@@ -6259,7 +6530,8 @@
         "releasedAt": 1661932800000,
         "liveStageId": 1,
         "fillerSec": 8.991700172424316,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 303,
@@ -6282,7 +6554,8 @@
         "releasedAt": 1324972800000,
         "liveStageId": 1,
         "fillerSec": 8.399999618530273,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 304,
@@ -6305,11 +6578,12 @@
         "releasedAt": 1668931200000,
         "liveStageId": 1,
         "fillerSec": 8.346400260925293,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 305,
-        "seq": 1130201,
+        "seq": 1129601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6328,11 +6602,12 @@
         "releasedAt": 1295510400000,
         "liveStageId": 1,
         "fillerSec": 8.993300437927246,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 306,
-        "seq": 1529201,
+        "seq": 1528601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6351,11 +6626,12 @@
         "releasedAt": 1254729600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 307,
-        "seq": 1533701,
+        "seq": 1533101,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -6374,11 +6650,12 @@
         "releasedAt": 1385712000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 308,
-        "seq": 2334001,
+        "seq": 2333401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -6397,11 +6674,12 @@
         "releasedAt": 1682668800000,
         "liveStageId": 1,
         "fillerSec": 7.90910005569458,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 309,
-        "seq": 1136601,
+        "seq": 1136001,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -6420,11 +6698,12 @@
         "releasedAt": 1362384000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 310,
-        "seq": 2227001,
+        "seq": 2226801,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -6443,11 +6722,12 @@
         "releasedAt": 1674288000000,
         "liveStageId": 1,
         "fillerSec": 9.319000244140625,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 311,
-        "seq": 1126701,
+        "seq": 1126601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6466,11 +6746,12 @@
         "releasedAt": 1415692800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 312,
-        "seq": 1129901,
+        "seq": 1129301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6489,7 +6770,8 @@
         "releasedAt": 1204531200000,
         "liveStageId": 1,
         "fillerSec": 7.714300155639648,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 313,
@@ -6512,7 +6794,8 @@
         "releasedAt": 1312099200000,
         "liveStageId": 1,
         "fillerSec": 9.94320011138916,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 314,
@@ -6535,7 +6818,8 @@
         "releasedAt": 1662796800000,
         "liveStageId": 1,
         "fillerSec": 9.062399864196777,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 315,
@@ -6558,11 +6842,12 @@
         "releasedAt": 1659254400000,
         "liveStageId": 1,
         "fillerSec": 8.368399620056152,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 316,
-        "seq": 2429101,
+        "seq": 2428501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -6581,7 +6866,8 @@
         "releasedAt": 1676793600000,
         "liveStageId": 1,
         "fillerSec": 8.403300285339355,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 317,
@@ -6604,7 +6890,8 @@
         "releasedAt": 1539417600000,
         "liveStageId": 1,
         "fillerSec": 7.900000095367432,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 318,
@@ -6627,7 +6914,8 @@
         "releasedAt": 1408953600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 319,
@@ -6650,11 +6938,12 @@
         "releasedAt": 1520668800000,
         "liveStageId": 1,
         "fillerSec": 7.110000133514404,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 320,
-        "seq": 1330901,
+        "seq": 1330301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6673,11 +6962,12 @@
         "releasedAt": 1540368000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 321,
-        "seq": 1231401,
+        "seq": 1230801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6696,11 +6986,12 @@
         "releasedAt": 1555142400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 322,
-        "seq": 1433901,
+        "seq": 1433301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6719,11 +7010,12 @@
         "releasedAt": 1561449600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 323,
-        "seq": 1234401,
+        "seq": 1233801,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -6742,11 +7034,12 @@
         "releasedAt": 1504166400000,
         "liveStageId": 1,
         "fillerSec": 7.953499794006348,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 324,
-        "seq": 2535701,
+        "seq": 2535101,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -6765,11 +7058,12 @@
         "releasedAt": 1685347200000,
         "liveStageId": 1,
         "fillerSec": 8.991700172424316,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 325,
-        "seq": 1139401,
+        "seq": 1138801,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -6788,11 +7082,12 @@
         "releasedAt": 1586937600000,
         "liveStageId": 1,
         "fillerSec": 7.956500053405762,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 326,
-        "seq": 1127701,
+        "seq": 1127201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6811,11 +7106,12 @@
         "releasedAt": 1665129600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 327,
-        "seq": 1128401,
+        "seq": 1127801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6834,11 +7130,12 @@
         "releasedAt": 1671782400000,
         "liveStageId": 1,
         "fillerSec": 9.008000373840332,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 328,
-        "seq": 1127401,
+        "seq": 1127001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6857,11 +7154,12 @@
         "releasedAt": 1665216000000,
         "liveStageId": 1,
         "fillerSec": 8.050800323486328,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 329,
-        "seq": 1130001,
+        "seq": 1129401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6880,11 +7178,12 @@
         "releasedAt": 1653638400000,
         "liveStageId": 1,
         "fillerSec": 9.010000228881836,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 330,
-        "seq": 1132601,
+        "seq": 1132001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6903,11 +7202,12 @@
         "releasedAt": 1320393600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 331,
-        "seq": 1130501,
+        "seq": 1129901,
         "releaseConditionId": 10,
         "categories": [
             "original"
@@ -6926,11 +7226,12 @@
         "releasedAt": 1343376000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 332,
-        "seq": 1131201,
+        "seq": 1130601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -6949,11 +7250,12 @@
         "releasedAt": 1665129600000,
         "liveStageId": 1,
         "fillerSec": 9.175999641418457,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 333,
-        "seq": 2530601,
+        "seq": 2530001,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -6972,11 +7274,12 @@
         "releasedAt": 1678521600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 334,
-        "seq": 1132101,
+        "seq": 1131501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -6995,11 +7298,12 @@
         "releasedAt": 1564819200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 335,
-        "seq": 1131901,
+        "seq": 1131301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7018,11 +7322,12 @@
         "releasedAt": 1485849600000,
         "liveStageId": 1,
         "fillerSec": 8.722299575805664,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 336,
-        "seq": 2732301,
+        "seq": 2731701,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -7042,11 +7347,12 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "musicCollaborationId": 4,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 337,
-        "seq": 1132401,
+        "seq": 1131801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7065,11 +7371,12 @@
         "releasedAt": 1528444800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 338,
-        "seq": 1129501,
+        "seq": 1128901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7088,11 +7395,12 @@
         "releasedAt": 1669449600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 339,
-        "seq": 1236301,
+        "seq": 1235701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7111,11 +7419,12 @@
         "releasedAt": 1277712000000,
         "liveStageId": 1,
         "fillerSec": 8.98330020904541,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 340,
-        "seq": 1636401,
+        "seq": 1635801,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7134,11 +7443,12 @@
         "releasedAt": 1402646400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 341,
-        "seq": 1142001,
+        "seq": 1141301,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7157,7 +7467,8 @@
         "releasedAt": 1467705600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 342,
@@ -7180,11 +7491,12 @@
         "releasedAt": 1463126400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 343,
-        "seq": 1133001,
+        "seq": 1132401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7203,11 +7515,12 @@
         "releasedAt": 1385625600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 344,
-        "seq": 1437101,
+        "seq": 1436501,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7226,11 +7539,12 @@
         "releasedAt": 1379664000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 345,
-        "seq": 2636901,
+        "seq": 2636301,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7249,11 +7563,12 @@
         "releasedAt": 1689753600000,
         "liveStageId": 1,
         "fillerSec": 8.977999687194824,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 346,
-        "seq": 1536001,
+        "seq": 1535401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7272,11 +7587,12 @@
         "releasedAt": 1310371200000,
         "liveStageId": 1,
         "fillerSec": 8.690699577331543,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 347,
-        "seq": 1128101,
+        "seq": 1127501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7295,11 +7611,12 @@
         "releasedAt": 1260259200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 348,
-        "seq": 1128201,
+        "seq": 1127601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7318,11 +7635,12 @@
         "releasedAt": 1307952000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 349,
-        "seq": 1127901,
+        "seq": 1127301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7341,11 +7659,12 @@
         "releasedAt": 1236153600000,
         "liveStageId": 1,
         "fillerSec": 9.006699562072754,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 350,
-        "seq": 1128001,
+        "seq": 1127401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7364,11 +7683,12 @@
         "releasedAt": 1306137600000,
         "liveStageId": 1,
         "fillerSec": 9.476200103759766,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 351,
-        "seq": 2233301,
+        "seq": 2232701,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -7387,11 +7707,12 @@
         "releasedAt": 1681200000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 352,
-        "seq": 1634901,
+        "seq": 1634301,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7410,11 +7731,12 @@
         "releasedAt": 1501833600000,
         "liveStageId": 1,
         "fillerSec": 9.468799591064453,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 353,
-        "seq": 2634101,
+        "seq": 2633501,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -7433,11 +7755,12 @@
         "releasedAt": 1682841600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 354,
-        "seq": 1335201,
+        "seq": 1334601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7456,11 +7779,12 @@
         "releasedAt": 1336032000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 355,
-        "seq": 1338501,
+        "seq": 1337901,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7479,11 +7803,12 @@
         "releasedAt": 1266825600000,
         "liveStageId": 1,
         "fillerSec": 8.100000381469727,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 356,
-        "seq": 2437801,
+        "seq": 2437201,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7502,7 +7827,8 @@
         "releasedAt": 1692432000000,
         "liveStageId": 1,
         "fillerSec": 8.199999809265137,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 357,
@@ -7525,11 +7851,12 @@
         "releasedAt": 1693468800000,
         "liveStageId": 1,
         "fillerSec": 9.645000457763672,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 358,
-        "seq": 1638101,
+        "seq": 1637501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7548,11 +7875,12 @@
         "releasedAt": 1388908800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 359,
-        "seq": 1133401,
+        "seq": 1132801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7571,11 +7899,12 @@
         "releasedAt": 1675065600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 360,
-        "seq": 1536701,
+        "seq": 1536101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7594,11 +7923,12 @@
         "releasedAt": 1484899200000,
         "liveStageId": 1,
         "fillerSec": 8.600000381469727,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 361,
-        "seq": 1336501,
+        "seq": 1335901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7617,7 +7947,8 @@
         "releasedAt": 1630224000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 362,
@@ -7640,7 +7971,8 @@
         "releasedAt": 1599465600000,
         "liveStageId": 1,
         "fillerSec": 7.593999862670898,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 363,
@@ -7663,11 +7995,12 @@
         "releasedAt": 1680854400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 364,
-        "seq": 1135601,
+        "seq": 1135001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7686,11 +8019,12 @@
         "releasedAt": 1675065600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 365,
-        "seq": 1439501,
+        "seq": 1438901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7709,11 +8043,12 @@
         "releasedAt": 1203667200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 366,
-        "seq": 2738901,
+        "seq": 2738301,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7732,11 +8067,12 @@
         "releasedAt": 1696060800000,
         "liveStageId": 1,
         "fillerSec": 8.366999626159668,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 367,
-        "seq": 1539701,
+        "seq": 1539101,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7755,11 +8091,12 @@
         "releasedAt": 1462089600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 368,
-        "seq": 2139001,
+        "seq": 2138401,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -7778,11 +8115,12 @@
         "releasedAt": 1696147200000,
         "liveStageId": 1,
         "fillerSec": 9.015000343322754,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 369,
-        "seq": 1339301,
+        "seq": 1338701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7801,11 +8139,12 @@
         "releasedAt": 1271664000000,
         "liveStageId": 1,
         "fillerSec": 7.714300155639648,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 370,
-        "seq": 1135801,
+        "seq": 1135201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7824,7 +8163,8 @@
         "releasedAt": 1659081600000,
         "liveStageId": 1,
         "fillerSec": 7.702700138092041,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 371,
@@ -7847,11 +8187,12 @@
         "releasedAt": 1626854400000,
         "liveStageId": 1,
         "fillerSec": 8.5649995803833,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 372,
-        "seq": 1239101,
+        "seq": 1238501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -7870,11 +8211,12 @@
         "releasedAt": 1250064000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 373,
-        "seq": 2435901,
+        "seq": 2435301,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -7893,11 +8235,12 @@
         "releasedAt": 1686384000000,
         "liveStageId": 1,
         "fillerSec": 8.994999885559082,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 374,
-        "seq": 2336201,
+        "seq": 2335601,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -7916,11 +8259,12 @@
         "releasedAt": 1687248000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 375,
-        "seq": 2237001,
+        "seq": 2236401,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -7939,11 +8283,12 @@
         "releasedAt": 1689926400000,
         "liveStageId": 1,
         "fillerSec": 9.01159954071045,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 376,
-        "seq": 1540401,
+        "seq": 1539801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -7962,11 +8307,12 @@
         "releasedAt": 1620979200000,
         "liveStageId": 1,
         "fillerSec": 9.006600379943848,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 377,
-        "seq": 1340301,
+        "seq": 1339701,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -7985,11 +8331,12 @@
         "releasedAt": 1510128000000,
         "liveStageId": 1,
         "fillerSec": 7.548399925231934,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 378,
-        "seq": 1642201,
+        "seq": 1641501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8008,11 +8355,12 @@
         "releasedAt": 1530432000000,
         "liveStageId": 1,
         "fillerSec": 8.381500244140625,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 379,
-        "seq": 1137501,
+        "seq": 1136901,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8031,11 +8379,12 @@
         "releasedAt": 1679126400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 380,
-        "seq": 1136101,
+        "seq": 1135501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8054,11 +8403,12 @@
         "releasedAt": 1679212800000,
         "liveStageId": 1,
         "fillerSec": 9.705900192260742,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 381,
-        "seq": 1137401,
+        "seq": 1136801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8077,11 +8427,12 @@
         "releasedAt": 1679212800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 382,
-        "seq": 1136801,
+        "seq": 1136201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8100,11 +8451,12 @@
         "releasedAt": 1675238400000,
         "liveStageId": 1,
         "fillerSec": 8.104499816894531,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 383,
-        "seq": 2240501,
+        "seq": 2239901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8123,11 +8475,12 @@
         "releasedAt": 1698566400000,
         "liveStageId": 1,
         "fillerSec": 8.076899528503418,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 384,
-        "seq": 2640801,
+        "seq": 2640201,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8146,11 +8499,12 @@
         "releasedAt": 1698825600000,
         "liveStageId": 1,
         "fillerSec": 6.954599857330322,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 385,
-        "seq": 1640001,
+        "seq": 1639401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8169,11 +8523,12 @@
         "releasedAt": 1631865600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 386,
-        "seq": 2537901,
+        "seq": 2537301,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8192,7 +8547,8 @@
         "releasedAt": 1692604800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 387,
@@ -8215,11 +8571,12 @@
         "releasedAt": 1646208000000,
         "liveStageId": 1,
         "fillerSec": 7.875,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 388,
-        "seq": 1141701,
+        "seq": 1141001,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -8238,11 +8595,12 @@
         "releasedAt": 1278662400000,
         "liveStageId": 1,
         "fillerSec": 8.699999809265137,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": true
     },
     {
         "id": 390,
-        "seq": 1140101,
+        "seq": 1139501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8261,11 +8619,12 @@
         "releasedAt": 1205568000000,
         "liveStageId": 1,
         "fillerSec": 8.5556001663208,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 391,
-        "seq": 1641201,
+        "seq": 1640601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8284,11 +8643,12 @@
         "releasedAt": 1613808000000,
         "liveStageId": 1,
         "fillerSec": 8.625,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 392,
-        "seq": 1440901,
+        "seq": 1440301,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8307,11 +8667,12 @@
         "releasedAt": 1575705600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 393,
-        "seq": 2138601,
+        "seq": 2138001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8330,11 +8691,12 @@
         "releasedAt": 1685779200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 394,
-        "seq": 2138001,
+        "seq": 2137401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8353,11 +8715,12 @@
         "releasedAt": 1685779200000,
         "liveStageId": 1,
         "fillerSec": 7.878499984741211,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 395,
-        "seq": 1237701,
+        "seq": 1237101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8376,11 +8739,12 @@
         "releasedAt": 1378108800000,
         "liveStageId": 1,
         "fillerSec": 7.988800048828125,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 397,
-        "seq": 2541401,
+        "seq": 2540801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8399,11 +8763,12 @@
         "releasedAt": 1701158400000,
         "liveStageId": 1,
         "fillerSec": 7.656700134277344,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 398,
-        "seq": 2441801,
+        "seq": 2441101,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8422,11 +8787,12 @@
         "releasedAt": 1701417600000,
         "liveStageId": 1,
         "fillerSec": 8.520000457763672,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 399,
-        "seq": 1137601,
+        "seq": 1137001,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8445,11 +8811,12 @@
         "releasedAt": 1685433600000,
         "liveStageId": 1,
         "fillerSec": 9.005000114440918,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 400,
-        "seq": 2337301,
+        "seq": 2336701,
         "releaseConditionId": 5,
         "categories": [
             "mv_2d"
@@ -8468,11 +8835,12 @@
         "releasedAt": 1688284800000,
         "liveStageId": 1,
         "fillerSec": 9.005000114440918,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 401,
-        "seq": 1139201,
+        "seq": 1138601,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8491,11 +8859,12 @@
         "releasedAt": 1650700800000,
         "liveStageId": 1,
         "fillerSec": 8.310400009155273,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 402,
-        "seq": 1642901,
+        "seq": 1642301,
         "releaseConditionId": 5,
         "categories": [
             "mv"
@@ -8514,11 +8883,12 @@
         "releasedAt": 1613203200000,
         "liveStageId": 1,
         "fillerSec": 8.649200439453125,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 403,
-        "seq": 1139801,
+        "seq": 1139201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8537,11 +8907,36 @@
         "releasedAt": 1222848000000,
         "liveStageId": 1,
         "fillerSec": 7.244999885559082,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 405,
+        "seq": 2342801,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "MOTTO!!!",
+        "pronunciation": "motto",
+        "creatorArtistId": 19,
+        "lyricist": "Junky",
+        "composer": "Junky",
+        "arranger": "Junky",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_405",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1736982000000,
+        "releasedAt": 1705305600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 406,
-        "seq": 2141001,
+        "seq": 2140401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8560,11 +8955,12 @@
         "releasedAt": 1685779200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 407,
-        "seq": 1242301,
+        "seq": 1241701,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8583,11 +8979,12 @@
         "releasedAt": 1229068800000,
         "liveStageId": 1,
         "fillerSec": 7.800000190734863,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 408,
-        "seq": 1138401,
+        "seq": 1137801,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8606,11 +9003,12 @@
         "releasedAt": 1683187200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 409,
-        "seq": 2642401,
+        "seq": 2641801,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -8629,11 +9027,36 @@
         "releasedAt": 1703836800000,
         "liveStageId": 1,
         "fillerSec": 8.302300453186035,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 410,
+        "seq": 1443301,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "Marshall Maximizer",
+        "pronunciation": "まーしゃるまきしまいざー",
+        "creatorArtistId": 188,
+        "lyricist": "Hiiragi Magnetite",
+        "composer": "Hiiragi Magnetite",
+        "arranger": "Hiiragi Magnetite, C'Na",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_410",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1738191600000,
+        "releasedAt": 1629532800000,
+        "liveStageId": 1,
+        "fillerSec": 7.736800193786621,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 412,
-        "seq": 1139601,
+        "seq": 1139001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8652,11 +9075,12 @@
         "releasedAt": 1673596800000,
         "liveStageId": 1,
         "fillerSec": 8.220800399780273,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 413,
-        "seq": 1341601,
+        "seq": 1340901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8675,11 +9099,12 @@
         "releasedAt": 1643443200000,
         "liveStageId": 1,
         "fillerSec": 8.696499824523926,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 414,
-        "seq": 1138301,
+        "seq": 1137701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8698,11 +9123,12 @@
         "releasedAt": 1688112000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 415,
-        "seq": 1138701,
+        "seq": 1138101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8721,11 +9147,12 @@
         "releasedAt": 1544774400000,
         "liveStageId": 1,
         "fillerSec": 7.571400165557861,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 417,
-        "seq": 1343101,
+        "seq": 1342501,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8744,11 +9171,12 @@
         "releasedAt": 1642233600000,
         "liveStageId": 1,
         "fillerSec": 8.63860034942627,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 418,
-        "seq": 1442501,
+        "seq": 1441901,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8767,7 +9195,8 @@
         "releasedAt": 1576483200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 419,
@@ -8790,7 +9219,8 @@
         "releasedAt": 1631174400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 420,
@@ -8813,11 +9243,12 @@
         "releasedAt": 1684310400000,
         "liveStageId": 1,
         "fillerSec": 7.9720001220703125,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 421,
-        "seq": 2439901,
+        "seq": 2439301,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8836,11 +9267,12 @@
         "releasedAt": 1697097600000,
         "liveStageId": 1,
         "fillerSec": 9.00100040435791,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 425,
-        "seq": 1140201,
+        "seq": 1139601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8859,11 +9291,12 @@
         "releasedAt": 1690617600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 426,
-        "seq": 1141101,
+        "seq": 1140501,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -8882,11 +9315,12 @@
         "releasedAt": 1689926400000,
         "liveStageId": 1,
         "fillerSec": 9.00409984588623,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 429,
-        "seq": 2340701,
+        "seq": 2340101,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -8905,11 +9339,12 @@
         "releasedAt": 1698739200000,
         "liveStageId": 1,
         "fillerSec": 7.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 430,
-        "seq": 1143001,
+        "seq": 1142401,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8928,11 +9363,12 @@
         "releasedAt": 1616918400000,
         "liveStageId": 1,
         "fillerSec": 8.512200355529785,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 432,
-        "seq": 1542701,
+        "seq": 1542101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8951,11 +9387,12 @@
         "releasedAt": 1678867200000,
         "liveStageId": 1,
         "fillerSec": 7.6666998863220215,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 433,
-        "seq": 1142801,
+        "seq": 1142201,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -8974,17 +9411,66 @@
         "releasedAt": 1647158400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
-        "id": 438,
-        "seq": 1243201,
+        "id": 435,
+        "seq": 1143501,
         "releaseConditionId": 5,
         "categories": [
             "image"
         ],
-        "title": "ハイドアンド・シーク",
-        "pronunciation": "はいどあんどしーく",
+        "title": "Relayouter",
+        "pronunciation": "relayouter",
+        "creatorArtistId": 224,
+        "lyricist": "inabakumori",
+        "composer": "inabakumori",
+        "arranger": "inabakumori",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_435",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1738623600000,
+        "releasedAt": 1691222400000,
+        "liveStageId": 1,
+        "fillerSec": 8.205300331115723,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 437,
+        "seq": 1443401,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "E? Ah,sou.",
+        "pronunciation": "eahsou",
+        "creatorArtistId": 87,
+        "lyricist": "papiyon",
+        "composer": "papiyon",
+        "arranger": "papiyon",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_437",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1738450800000,
+        "releasedAt": 1584864000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 438,
+        "seq": 1242601,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Hide and Seek",
+        "pronunciation": "hideandseek",
         "creatorArtistId": 200,
         "lyricist": "19 -iku-",
         "composer": "19 -iku-",
@@ -8997,11 +9483,12 @@
         "releasedAt": 1415088000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 439,
-        "seq": 1142601,
+        "seq": 1142001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9020,11 +9507,12 @@
         "releasedAt": 1679212800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 440,
-        "seq": 2141901,
+        "seq": 2141201,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9043,7 +9531,32 @@
         "releasedAt": 1685779200000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 444,
+        "seq": 1143001,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "syndrome",
+        "pronunciation": "syndrome",
+        "creatorArtistId": 221,
+        "lyricist": "Miyamori Bungaku",
+        "composer": "Miyamori Bungaku",
+        "arranger": "Miyamori Bungaku",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_444",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1737586800000,
+        "releasedAt": 1691568000000,
+        "liveStageId": 1,
+        "fillerSec": 7.536600112915039,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 445,
@@ -9066,11 +9579,12 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 446,
-        "seq": 1142101,
+        "seq": 1141401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9089,7 +9603,107 @@
         "releasedAt": 1691481600000,
         "liveStageId": 1,
         "fillerSec": 9.005000114440918,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 447,
+        "seq": 3742701,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "folern",
+        "pronunciation": "folern",
+        "creatorArtistId": 33,
+        "lyricist": "-",
+        "composer": "nulut",
+        "arranger": "nulut",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_447",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1736722800000,
+        "releasedAt": 1540454400000,
+        "liveStageId": 1,
+        "fillerSec": 9.300000190734863,
+        "musicCollaborationId": 1,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 448,
+        "seq": 3742901,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Sage",
+        "pronunciation": "sage",
+        "creatorArtistId": 220,
+        "lyricist": "-",
+        "composer": "Camellia",
+        "arranger": "Camellia",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_448",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1737241200000,
+        "releasedAt": 1656057600000,
+        "liveStageId": 1,
+        "fillerSec": 8.586199760437012,
+        "musicCollaborationId": 1,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 449,
+        "seq": 3743201,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "MarbleBlue.",
+        "pronunciation": "marbleblue",
+        "creatorArtistId": 223,
+        "lyricist": "-",
+        "composer": "misoilepunch",
+        "arranger": "Ponchi♪",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_449",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1737932400000,
+        "releasedAt": 1649318400000,
+        "liveStageId": 1,
+        "fillerSec": 7.7891998291015625,
+        "musicCollaborationId": 1,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 452,
+        "seq": 2543101,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "CYBER PUNK DEAD BOY",
+        "pronunciation": "cyberpunkdeadboy",
+        "creatorArtistId": 222,
+        "lyricist": "Maiki P",
+        "composer": "Maiki P",
+        "arranger": "Maiki P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_452",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1737673200000,
+        "releasedAt": 1705996800000,
+        "liveStageId": 1,
+        "fillerSec": 8.618000030517578,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 453,
@@ -9112,11 +9726,12 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 459,
-        "seq": 1129701,
+        "seq": 1129101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9135,11 +9750,36 @@
         "releasedAt": 1518681600000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 461,
+        "seq": 1143601,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "おどロボ",
+        "pronunciation": "おどろぼ",
+        "creatorArtistId": 225,
+        "lyricist": "海茶・多良レイト",
+        "composer": "海茶・多良レイト",
+        "arranger": "海茶",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_461",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1738710000000,
+        "releasedAt": 1691136000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 464,
-        "seq": 1127501,
+        "seq": 1127101,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9158,11 +9798,12 @@
         "releasedAt": 1705046400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 479,
-        "seq": 1131701,
+        "seq": 1131101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9181,11 +9822,12 @@
         "releasedAt": 1598860800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 514,
-        "seq": 1138801,
+        "seq": 1138201,
         "releaseConditionId": 10,
         "categories": [
             "mv_2d"
@@ -9204,11 +9846,12 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": true
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
     },
     {
         "id": 528,
-        "seq": 1137201,
+        "seq": 1136601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9227,11 +9870,12 @@
         "releasedAt": 1608278400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 535,
-        "seq": 1138201,
+        "seq": 1137601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9250,11 +9894,12 @@
         "releasedAt": 1691136000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 552,
-        "seq": 1140601,
+        "seq": 1140001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9273,11 +9918,36 @@
         "releasedAt": 1711180800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 563,
+        "seq": 1141601,
+        "releaseConditionId": 10,
+        "categories": [
+            "image"
+        ],
+        "title": "NAKAKAPAGPABAGABAG",
+        "pronunciation": "nakakapagpabagabag",
+        "creatorArtistId": 10012,
+        "lyricist": "Dasu",
+        "composer": "Dasu",
+        "arranger": "Dasu",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_563",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1735167600000,
+        "releasedAt": 1601452800000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     },
     {
         "id": 568,
-        "seq": 1141301,
+        "seq": 1140701,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -9296,6 +9966,7 @@
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
-        "isNewlyWrittenMusic": false
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
     }
 ]

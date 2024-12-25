@@ -1310,6 +1310,11 @@
         "videoLink": "https://www.youtube.com/watch?v=6kiQuUJWHuE"
     },
     {
+        "id": 410,
+        "musicId": 410,
+        "videoLink": "https://youtu.be/jMKPYg0uhCI?si=z9SIARwwrxeccNjF"
+    },
+    {
         "id": 412,
         "musicId": 412,
         "videoLink": "https://www.youtube.com/watch?v=lMEt3RdqB9Y"
@@ -1375,6 +1380,16 @@
         "videoLink": "https://youtu.be/od4QcDPpNVk?si=XE8lbQIDZtW0JYb5"
     },
     {
+        "id": 435,
+        "musicId": 435,
+        "videoLink": "https://www.nicovideo.jp/watch/sm42576236"
+    },
+    {
+        "id": 437,
+        "musicId": 437,
+        "videoLink": "https://www.youtube.com/watch?v=sTZEvg55C34"
+    },
+    {
         "id": 438,
         "musicId": 438,
         "videoLink": "https://www.nicovideo.jp/watch/sm24841816"
@@ -1385,6 +1400,11 @@
         "videoLink": "https://youtu.be/uB_jQ8H2Yeg?si=LbwtGFBthsiBukpd"
     },
     {
+        "id": 444,
+        "musicId": 444,
+        "videoLink": "https://www.youtube.com/watch?v=Hc4uBAj9p04"
+    },
+    {
         "id": 445,
         "musicId": 445,
         "videoLink": "https://www.youtube.com/watch?v=A77p_8E7OFs"
@@ -1393,6 +1413,11 @@
         "id": 446,
         "musicId": 446,
         "videoLink": "https://www.youtube.com/watch?v=XEu2mNXhWEA"
+    },
+    {
+        "id": 461,
+        "musicId": 461,
+        "videoLink": "https://www.nicovideo.jp/watch/sm42574301"
     },
     {
         "id": 464,
@@ -1408,6 +1433,11 @@
         "id": 552,
         "musicId": 552,
         "videoLink": "https://youtu.be/LaEgpNBt-bQ?si=oTTI5RVg8D4yE7XI"
+    },
+    {
+        "id": 563,
+        "musicId": 563,
+        "videoLink": "https://youtu.be/SnI4CGjeVOM"
     },
     {
         "id": 568,

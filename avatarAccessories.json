@@ -544,5 +544,19 @@
         "name": "New Year's Meal",
         "part": "Accessory_face",
         "assetbundleName": "accessory_0088"
+    },
+    {
+        "id": 89,
+        "seq": 880,
+        "name": "Chock-Full Barbecue Lunch",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0089"
+    },
+    {
+        "id": 90,
+        "seq": 890,
+        "name": "Kohane's Camera",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0090"
     }
 ]

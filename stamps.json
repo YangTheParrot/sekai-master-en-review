@@ -7904,6 +7904,30 @@
         "description": "Join the Beside Unchanging Warmth After Show."
     },
     {
+        "id": 724,
+        "stampType": "illustration",
+        "seq": 9210,
+        "name": "[Stamp] MEIKO: I'll support you",
+        "assetbundleName": "stamp0724",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 25,
+        "gameCharacterUnitId": 49,
+        "archivePublishedAt": 1736481600000,
+        "description": "Join the Break Down the Wall After Show."
+    },
+    {
+        "id": 725,
+        "stampType": "illustration",
+        "seq": 9220,
+        "name": "[Stamp] Rui: What could be the cause...?",
+        "assetbundleName": "stamp0725",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 16,
+        "gameCharacterUnitId": 16,
+        "archivePublishedAt": 1737846000000,
+        "description": "Join the Backlight, Lens Flare After Show."
+    },
+    {
         "id": 726,
         "stampType": "illustration",
         "seq": 9190,
@@ -7912,6 +7936,18 @@
         "balloonAssetbundleName": "balloon_stamp_01",
         "archivePublishedAt": 1735675200000,
         "description": "Obtain in New Year's Login Campaign."
+    },
+    {
+        "id": 727,
+        "stampType": "illustration",
+        "seq": 9260,
+        "name": "[Stamp] Kohane: I won't lose, either!",
+        "assetbundleName": "stamp0727",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 9,
+        "gameCharacterUnitId": 9,
+        "archivePublishedAt": 1738353600000,
+        "description": "Join the Take the Best Shot! After Show."
     },
     {
         "id": 101021,

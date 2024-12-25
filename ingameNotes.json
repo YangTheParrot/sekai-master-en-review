@@ -1,12 +1,5 @@
 [
     {
-        "id": 1,
-        "ingameNoteType": "normal",
-        "scoreCoefficient": 10.0,
-        "damageBad": 50,
-        "damageMiss": 80
-    },
-    {
         "id": 2,
         "ingameNoteType": "long",
         "scoreCoefficient": 10.0,

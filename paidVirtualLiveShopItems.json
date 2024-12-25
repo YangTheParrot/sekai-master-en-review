@@ -70,6 +70,60 @@
         "assetbundleName": "vl_archive_thumbnail_10004"
     },
     {
+        "id": 10011,
+        "seq": 10012,
+        "paidVirtualLiveShopItemGroupId": 2,
+        "name": "Performance 1",
+        "description": "*Some audio is missing from this performance.",
+        "resourceBoxId": 10011,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 100111,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 3000,
+                "startAt": 1737846000000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_10011"
+    },
+    {
+        "id": 10012,
+        "seq": 10011,
+        "paidVirtualLiveShopItemGroupId": 2,
+        "name": "Performance 2",
+        "description": "*Some audio is missing from this performance.",
+        "resourceBoxId": 10012,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 100121,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 3000,
+                "startAt": 1737846000000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_10012"
+    },
+    {
+        "id": 10013,
+        "seq": 10013,
+        "paidVirtualLiveShopItemGroupId": 2,
+        "name": "All Performances",
+        "description": "※第1公演および第2公演に注意事項がありますのでご確認ください。",
+        "resourceBoxId": 10013,
+        "paidVirtualLiveShopItemPurchaseType": "bundle",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 100131,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 5000,
+                "startAt": 1737846000000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_10013"
+    },
+    {
         "id": 20001,
         "seq": 20001,
         "name": "Haruka 2021",
@@ -1828,6 +1882,50 @@
             }
         ],
         "assetbundleName": "vl_archive_thumbnail_20080"
+    },
+    {
+        "id": 20081,
+        "seq": 20081,
+        "name": "MEIKO 2024",
+        "resourceBoxId": 20081,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 200811,
+                "costResourceType": "jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1738396800000
+            },
+            {
+                "id": 200812,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1738396800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_20081"
+    },
+    {
+        "id": 20082,
+        "seq": 20082,
+        "name": "彰人 2024",
+        "resourceBoxId": 20082,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 200821,
+                "costResourceType": "jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1738396800000
+            },
+            {
+                "id": 200822,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1738396800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_20082"
     },
     {
         "id": 30008,

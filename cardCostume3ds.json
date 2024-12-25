@@ -4530,5 +4530,137 @@
     {
         "cardId": 844,
         "costume3dId": 530162
+    },
+    {
+        "cardId": 848,
+        "costume3dId": 535065
+    },
+    {
+        "cardId": 848,
+        "costume3dId": 535066
+    },
+    {
+        "cardId": 848,
+        "costume3dId": 535161
+    },
+    {
+        "cardId": 849,
+        "costume3dId": 536073
+    },
+    {
+        "cardId": 849,
+        "costume3dId": 536074
+    },
+    {
+        "cardId": 849,
+        "costume3dId": 536161
+    },
+    {
+        "cardId": 850,
+        "costume3dId": 537001
+    },
+    {
+        "cardId": 850,
+        "costume3dId": 537002
+    },
+    {
+        "cardId": 850,
+        "costume3dId": 537049
+    },
+    {
+        "cardId": 851,
+        "costume3dId": 538009
+    },
+    {
+        "cardId": 851,
+        "costume3dId": 538010
+    },
+    {
+        "cardId": 851,
+        "costume3dId": 538049
+    },
+    {
+        "cardId": 854,
+        "costume3dId": 539025
+    },
+    {
+        "cardId": 854,
+        "costume3dId": 539026
+    },
+    {
+        "cardId": 854,
+        "costume3dId": 539049
+    },
+    {
+        "cardId": 855,
+        "costume3dId": 540089
+    },
+    {
+        "cardId": 855,
+        "costume3dId": 540090
+    },
+    {
+        "cardId": 855,
+        "costume3dId": 540161
+    },
+    {
+        "cardId": 856,
+        "costume3dId": 541137
+    },
+    {
+        "cardId": 856,
+        "costume3dId": 541138
+    },
+    {
+        "cardId": 856,
+        "costume3dId": 541161
+    },
+    {
+        "cardId": 861,
+        "costume3dId": 542065
+    },
+    {
+        "cardId": 861,
+        "costume3dId": 542066
+    },
+    {
+        "cardId": 861,
+        "costume3dId": 542161
+    },
+    {
+        "cardId": 861,
+        "costume3dId": 542162
+    },
+    {
+        "cardId": 862,
+        "costume3dId": 543041
+    },
+    {
+        "cardId": 862,
+        "costume3dId": 543042
+    },
+    {
+        "cardId": 862,
+        "costume3dId": 543161
+    },
+    {
+        "cardId": 862,
+        "costume3dId": 543162
+    },
+    {
+        "cardId": 863,
+        "costume3dId": 544113
+    },
+    {
+        "cardId": 863,
+        "costume3dId": 544114
+    },
+    {
+        "cardId": 863,
+        "costume3dId": 544161
+    },
+    {
+        "cardId": 863,
+        "costume3dId": 544162
     }
 ]
