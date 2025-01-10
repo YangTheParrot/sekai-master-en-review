@@ -13708,25 +13708,5 @@
         "headCostume3dId": 542135,
         "hairCostume3dId": 221,
         "bodyCostume3dId": 542136
-    },
-    {
-        "id": 1388,
-        "characterType": "game_character",
-        "characterId": 19,
-        "unit": "school_refusal",
-        "name": "東雲絵名（想望のセーラー）",
-        "headCostume3dId": 521113,
-        "hairCostume3dId": 219,
-        "bodyCostume3dId": 521114
-    },
-    {
-        "id": 1389,
-        "characterType": "game_character",
-        "characterId": 20,
-        "unit": "school_refusal",
-        "name": "暁山瑞希（深憂のセーラー）",
-        "headCostume3dId": 522121,
-        "hairCostume3dId": 220,
-        "bodyCostume3dId": 522122
     }
 ]

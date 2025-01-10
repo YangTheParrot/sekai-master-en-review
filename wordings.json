@@ -1609,15 +1609,15 @@
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_1",
-        "value": "Unlocks at <color=#00CCBB>Rank 1</color>"
+        "value": "Unlocks at <color=#00CCBB>Rank 1</color>."
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_3",
-        "value": "Unlocks at <color=#00CCBB>Rank 3</color>"
+        "value": "Unlocks at <color=#00CCBB>Rank 3</color>."
     },
     {
         "wordingKey": "MSG_MASTER_RANK_ACQUISITION_CONDITIONS_5",
-        "value": "Unlocks at <color=#00CCBB>Rank 5</color>"
+        "value": "Unlocks at <color=#00CCBB>Rank 5</color>."
     },
     {
         "wordingKey": "MSG_MATCHING_CONNECTING",
@@ -2457,7 +2457,7 @@
     },
     {
         "wordingKey": "MSG_RELEASING_AT_PREMIUM_MISSION_PATH_PURCHASE",
-        "value": "Purchase Premium Mission Pass to unlock"
+        "value": "Purchase Premium Mission Pass to unlock."
     },
     {
         "wordingKey": "MSG_REMING_COUNT_SIZE_FORMAT",
@@ -2881,7 +2881,7 @@
     },
     {
         "wordingKey": "MSG_UNLOCK_FROM_BUY_PREMIUM",
-        "value": "Purchase Premium Mission Pass to unlock"
+        "value": "Purchase Premium Mission Pass to unlock."
     },
     {
         "wordingKey": "MSG_UNLOCK_UNITSTORY_BODY",
@@ -3961,7 +3961,7 @@
     },
     {
         "wordingKey": "WORD_BUY_FROM_CRYSTAL_SHOP",
-        "value": "Purchase at Crystal Shop"
+        "value": "Purchase at Crystal Shop."
     },
     {
         "wordingKey": "WORD_BUY_LIVE_POINT",
@@ -9577,11 +9577,11 @@
     },
     {
         "wordingKey": "WORD_USE_ITEM_UNLOCK",
-        "value": "Unlock with Charms/Gems"
+        "value": "Unlock with Charms/Gems."
     },
     {
         "wordingKey": "WORD_USE_SIDE_STORY_RELEASE_TICKET_UNLOCK",
-        "value": "Unlock with Side Story Ticket"
+        "value": "Unlock with Side Story Ticket."
     },
     {
         "wordingKey": "WORD_USE_WITH",
