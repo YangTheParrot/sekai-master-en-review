@@ -5358,12 +5358,6 @@
         "seq": 0
     },
     {
-        "id": 925,
-        "musicId": 405,
-        "musicTag": "all",
-        "seq": 0
-    },
-    {
         "id": 926,
         "musicId": 406,
         "musicTag": "all",
@@ -5982,12 +5976,6 @@
         "seq": 7
     },
     {
-        "id": 1387,
-        "musicId": 405,
-        "musicTag": "idol",
-        "seq": 4
-    },
-    {
         "id": 1388,
         "musicId": 448,
         "musicTag": "other",
@@ -6031,13 +6019,13 @@
     },
     {
         "id": 1395,
-        "musicId": 464,
-        "musicTag": "all",
-        "seq": 0
+        "musicId": 437,
+        "musicTag": "street",
+        "seq": 3
     },
     {
         "id": 1396,
-        "musicId": 464,
+        "musicId": 435,
         "musicTag": "vocaloid",
         "seq": 1
     },
@@ -6092,6 +6080,18 @@
     {
         "id": 1501,
         "musicId": 568,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1524,
+        "musicId": 464,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1525,
+        "musicId": 464,
         "musicTag": "vocaloid",
         "seq": 1
     }

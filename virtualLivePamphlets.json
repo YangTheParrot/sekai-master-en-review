@@ -5,12 +5,5 @@
         "name": "Connect Show Vivid BAD SQUAD 1st CRASH Pamphlet",
         "flavorText": "This is the Connect Show Vivid BAD SQUAD 1st CRASH Pamphlet.",
         "assetbundleName": "pamphlet_connectlive_1st_vbs"
-    },
-    {
-        "id": 2,
-        "virtualLiveId": 176,
-        "name": "Connect Show 2nd Anniversary Special Stage Pamphlet",
-        "flavorText": "This is the Connect Show 2nd Anniversary Special Stage pamphlet.",
-        "assetbundleName": "rtvl_pamphlet_2ndanniversary"
     }
 ]
