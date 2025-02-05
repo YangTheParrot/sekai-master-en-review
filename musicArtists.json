@@ -1223,5 +1223,15 @@
         "id": 10012,
         "name": "Dasu",
         "pronunciation": "Dasu"
+    },
+    {
+        "id": 10013,
+        "name": "CircusP + Creep-P",
+        "pronunciation": "CircusP + Creep-P"
+    },
+    {
+        "id": 10014,
+        "name": "CircusP + FLAVOR FOLEY",
+        "pronunciation": "CircusP + FLAVOR FOLEY"
     }
 ]
