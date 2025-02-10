@@ -1905,8 +1905,8 @@
         "eventMissionCategory": "bonus",
         "achieveMissionType": "normal",
         "eventMissionType": "live_clear_daily",
-        "requirement1": 7,
-        "sentence": "Clear a show on 7 separate days.",
+        "requirement1": 8,
+        "sentence": "Clear a show on 8 separate days.",
         "rewards": [
             {
                 "id": 10001279,

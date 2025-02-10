@@ -5688,6 +5688,12 @@
         "seq": 0
     },
     {
+        "id": 1121,
+        "musicId": 598,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1122,
         "musicId": 599,
         "musicTag": "all",
@@ -6248,6 +6254,12 @@
     {
         "id": 1501,
         "musicId": 568,
+        "musicTag": "vocaloid",
+        "seq": 1
+    },
+    {
+        "id": 1515,
+        "musicId": 598,
         "musicTag": "vocaloid",
         "seq": 1
     },

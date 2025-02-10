@@ -9735,6 +9735,13 @@
         "releaseConditionTypeQuantity": 7
     },
     {
+        "id": 40598,
+        "sentence": "Clear on EXPERT with 7 or fewer GOOD or lower taps.",
+        "releaseConditionType": "music_difficulty_better_play",
+        "releaseConditionTypeId": 2989,
+        "releaseConditionTypeQuantity": 7
+    },
+    {
         "id": 40599,
         "sentence": "Clear on EXPERT with 7 or fewer GOOD or lower taps.",
         "releaseConditionType": "music_difficulty_better_play",

@@ -17008,6 +17008,46 @@
         "totalNoteCount": 773
     },
     {
+        "id": 2986,
+        "musicId": 598,
+        "musicDifficulty": "easy",
+        "playLevel": 7,
+        "releaseConditionId": 1,
+        "totalNoteCount": 203
+    },
+    {
+        "id": 2987,
+        "musicId": 598,
+        "musicDifficulty": "normal",
+        "playLevel": 13,
+        "releaseConditionId": 1,
+        "totalNoteCount": 446
+    },
+    {
+        "id": 2988,
+        "musicId": 598,
+        "musicDifficulty": "hard",
+        "playLevel": 18,
+        "releaseConditionId": 1,
+        "totalNoteCount": 739
+    },
+    {
+        "id": 2989,
+        "musicId": 598,
+        "musicDifficulty": "expert",
+        "playLevel": 25,
+        "releaseConditionId": 1,
+        "totalNoteCount": 1084
+    },
+    {
+        "id": 2990,
+        "musicId": 598,
+        "musicDifficulty": "master",
+        "playLevel": 28,
+        "releaseConditionId": 40598,
+        "totalNoteCount": 1191
+    },
+    {
         "id": 2991,
         "musicId": 599,
         "musicDifficulty": "easy",

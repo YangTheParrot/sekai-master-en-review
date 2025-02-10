@@ -9181,7 +9181,7 @@
     },
     {
         "id": 416,
-        "seq": 2143301,
+        "seq": 2143401,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9325,7 +9325,7 @@
     },
     {
         "id": 422,
-        "seq": 2343601,
+        "seq": 2343701,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9349,7 +9349,7 @@
     },
     {
         "id": 423,
-        "seq": 2243401,
+        "seq": 2243501,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9373,7 +9373,7 @@
     },
     {
         "id": 424,
-        "seq": 2243801,
+        "seq": 2243901,
         "releaseConditionId": 10,
         "categories": [
             "mv"
@@ -9565,7 +9565,7 @@
     },
     {
         "id": 436,
-        "seq": 1543501,
+        "seq": 1543601,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -9880,7 +9880,7 @@
     },
     {
         "id": 455,
-        "seq": 1643901,
+        "seq": 1644001,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10024,7 +10024,7 @@
     },
     {
         "id": 469,
-        "seq": 1643701,
+        "seq": 1643801,
         "releaseConditionId": 5,
         "categories": [
             "original"
@@ -10048,7 +10048,7 @@
     },
     {
         "id": 470,
-        "seq": 1144101,
+        "seq": 1144201,
         "releaseConditionId": 10,
         "categories": [
             "image"
@@ -10096,7 +10096,7 @@
     },
     {
         "id": 481,
-        "seq": 1144001,
+        "seq": 1144101,
         "releaseConditionId": 5,
         "categories": [
             "image"
@@ -10280,6 +10280,30 @@
         "assetbundleName": "jacket_s_593",
         "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
         "publishedAt": 1738994400000,
+        "releasedAt": 1601452800000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 598,
+        "seq": 1143301,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "Last of Me",
+        "pronunciation": "lastofme",
+        "creatorArtistId": 124,
+        "lyricist": "CircusP",
+        "composer": "CircusP",
+        "arranger": "CircusP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_598",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1739574000000,
         "releasedAt": 1601452800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
