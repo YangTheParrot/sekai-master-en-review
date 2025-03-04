@@ -329,6 +329,13 @@
         "assetbundleName": "accessory_0051"
     },
     {
+        "id": 52,
+        "seq": 500,
+        "name": "JP 2nd Anniversary Special Stage Show Cap",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0052"
+    },
+    {
         "id": 53,
         "seq": 520,
         "name": "Dark Decora Hat",
@@ -572,5 +579,19 @@
         "name": "Tea Set",
         "part": "Accessory_face",
         "assetbundleName": "accessory_0092"
+    },
+    {
+        "id": 93,
+        "seq": 920,
+        "name": "Grand Piano",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0093"
+    },
+    {
+        "id": 94,
+        "seq": 940,
+        "name": "Fluffy Dog Face",
+        "part": "Accessory_face",
+        "assetbundleName": "accessory_0094"
     }
 ]

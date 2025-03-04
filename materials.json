@@ -441,6 +441,34 @@
         "materialType": "character_rank_exp_ticket"
     },
     {
+        "id": 72,
+        "seq": 72,
+        "name": "Tsukasa's Wish Vial",
+        "flavorText": "A vial filled with Tsukasa's feelings.\nThere may come a time when it can be used in SEKAI.",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 73,
+        "seq": 73,
+        "name": "Emu's Wish Vial",
+        "flavorText": "A vial filled with Emu's feelings.\nThere may come a time when it can be used in SEKAI.",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 74,
+        "seq": 74,
+        "name": "Nene's Wish Vial",
+        "flavorText": "A vial filled with Nene's feelings.\nThere may come a time when it can be used in SEKAI.",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 75,
+        "seq": 75,
+        "name": "Rui's Wish Vial",
+        "flavorText": "A vial filled with Rui's feelings.\nThere may come a time when it can be used in SEKAI.",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
         "id": 76,
         "seq": 76,
         "name": "Kanade's Wish Vial",
@@ -474,6 +502,13 @@
         "name": "Side Story Ticket",
         "flavorText": "Can be used instead of Charms and Gems to unlock Side Stories. Obtained from the Crystal Shop.",
         "materialType": "card_episode_release_ticket"
+    },
+    {
+        "id": 87,
+        "seq": 87,
+        "name": "JP 3.5Y Ticket",
+        "flavorText": "3900's交換所で報酬と交換することができる。\n使用期限：2024/05/14 23:59",
+        "materialType": "common"
     },
     {
         "id": 1000001,

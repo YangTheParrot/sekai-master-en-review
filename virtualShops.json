@@ -3723,6 +3723,71 @@
         "virtualShopType": "event"
     },
     {
+        "id": 141,
+        "seq": 141,
+        "name": "2周年コネクトライブ本番公演（チケットショップ）",
+        "virtualLiveId": 176,
+        "virtualShopItems": [
+            {
+                "id": 248,
+                "virtualShopId": 141,
+                "virtualShopItemType": "premium_virtual_live_ticket",
+                "seq": 299995,
+                "resourceBoxId": 192,
+                "costPaidJewel": 3000,
+                "startAt": 1741492800000,
+                "endAt": 1742680799000,
+                "limitValue": 1
+            }
+        ],
+        "virtualShopType": "virtual_live_ticket"
+    },
+    {
+        "id": 142,
+        "seq": 142,
+        "name": "2周年コネクトライブ本番公演（物販グッズショップ）",
+        "virtualLiveId": 176,
+        "virtualShopItems": [
+            {
+                "id": 249,
+                "virtualShopId": 142,
+                "virtualShopItemType": "costume",
+                "seq": 6,
+                "resourceBoxId": 193,
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "startAt": 1741492800000,
+                "endAt": 1742680799000,
+                "limitValue": 1
+            },
+            {
+                "id": 250,
+                "virtualShopId": 142,
+                "virtualShopItemType": "costume",
+                "seq": 5,
+                "resourceBoxId": 194,
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "startAt": 1741492800000,
+                "endAt": 1742680799000,
+                "limitValue": 1
+            },
+            {
+                "id": 251,
+                "virtualShopId": 142,
+                "virtualShopItemType": "accessory",
+                "seq": 4,
+                "resourceBoxId": 195,
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "startAt": 1741492800000,
+                "endAt": 1742680799000,
+                "limitValue": 1
+            }
+        ],
+        "virtualShopType": "other"
+    },
+    {
         "id": 144,
         "seq": 144,
         "name": "遥 BIRTHDAY",
@@ -5653,5 +5718,75 @@
             }
         ],
         "virtualShopType": "birthday"
+    },
+    {
+        "id": 256,
+        "seq": 256,
+        "name": "第124回イベント物販",
+        "virtualShopItems": [
+            {
+                "id": 433,
+                "virtualShopId": 256,
+                "virtualShopItemType": "penlight",
+                "seq": 99913,
+                "resourceBoxId": 329,
+                "costPaidJewel": 1000,
+                "startAt": 1741492800000
+            }
+        ],
+        "virtualShopType": "event"
+    },
+    {
+        "id": 257,
+        "seq": 257,
+        "name": "Airi's Birthday",
+        "virtualShopItems": [
+            {
+                "id": 434,
+                "virtualShopId": 257,
+                "virtualShopItemType": "coordinate",
+                "seq": 99833,
+                "resourceBoxId": 330,
+                "costPaidJewel": 1000,
+                "startAt": 1742248800000
+            }
+        ],
+        "virtualShopType": "birthday"
+    },
+    {
+        "id": 258,
+        "seq": 258,
+        "name": "第125回イベント物販",
+        "virtualShopItems": [
+            {
+                "id": 435,
+                "virtualShopId": 258,
+                "virtualShopItemType": "accessory",
+                "seq": 99883,
+                "resourceBoxId": 331,
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "startAt": 1742680800000
+            }
+        ],
+        "virtualShopType": "event"
+    },
+    {
+        "id": 259,
+        "seq": 259,
+        "name": "第126回イベント物販",
+        "virtualShopItems": [
+            {
+                "id": 436,
+                "virtualShopId": 259,
+                "virtualShopItemType": "accessory",
+                "seq": 99882,
+                "resourceBoxId": 332,
+                "costVirtualCoin": 3000,
+                "costJewel": 1000,
+                "startAt": 1743372000000
+            }
+        ],
+        "virtualShopType": "event"
     }
 ]

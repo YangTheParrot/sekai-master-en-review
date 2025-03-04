@@ -1321,6 +1321,93 @@
         ]
     },
     {
+        "id": 87,
+        "seq": 87,
+        "name": "White Day Login Campaign",
+        "startAt": 1741935600000,
+        "endAt": 1742108399000,
+        "assetbundleName": "whiteday_2024",
+        "closeAt": 1742108399000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 191,
+                "limitedLoginBonusId": 87,
+                "day": 1,
+                "resourceBoxId": 113
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "seq": 88,
+        "name": "JP 3.5 Year Anniversary Run-Up Login Campaign",
+        "startAt": 1743188400000,
+        "endAt": 1743361199000,
+        "assetbundleName": "world_3900_pre_anniversary",
+        "closeAt": 1743361199000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 192,
+                "limitedLoginBonusId": 88,
+                "day": 1,
+                "resourceBoxId": 114
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "seq": 89,
+        "name": "JP 3.5 Year Anniversary Login Campaign",
+        "startAt": 1743361200000,
+        "endAt": 1746097199000,
+        "assetbundleName": "3.5th_anniversary",
+        "closeAt": 1745578800000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 193,
+                "limitedLoginBonusId": 89,
+                "day": 1,
+                "resourceBoxId": 115
+            },
+            {
+                "id": 194,
+                "limitedLoginBonusId": 89,
+                "day": 2,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 195,
+                "limitedLoginBonusId": 89,
+                "day": 3,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 196,
+                "limitedLoginBonusId": 89,
+                "day": 4,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 197,
+                "limitedLoginBonusId": 89,
+                "day": 5,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 198,
+                "limitedLoginBonusId": 89,
+                "day": 6,
+                "resourceBoxId": 116
+            },
+            {
+                "id": 199,
+                "limitedLoginBonusId": 89,
+                "day": 7,
+                "resourceBoxId": 116
+            }
+        ]
+    },
+    {
         "id": 1001,
         "seq": 1001,
         "name": "OBT特別ログインボーナス",
@@ -5397,6 +5484,94 @@
                 "limitedLoginBonusId": 1126,
                 "day": 9,
                 "resourceBoxId": 1420
+            }
+        ]
+    },
+    {
+        "id": 1127,
+        "seq": 1127,
+        "name": "Miku Day Login Campaign",
+        "startAt": 1741507200000,
+        "endAt": 1741589999000,
+        "assetbundleName": "mikusday_2025",
+        "closeAt": 1741589999000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1455,
+                "limitedLoginBonusId": 1127,
+                "day": 1,
+                "resourceBoxId": 1421
+            }
+        ]
+    },
+    {
+        "id": 1128,
+        "seq": 1128,
+        "name": "Spring Login Campaign",
+        "startAt": 1742238000000,
+        "endAt": 1743533999000,
+        "assetbundleName": "spring_login_bonus_2022",
+        "closeAt": 1742814000000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 1456,
+                "limitedLoginBonusId": 1128,
+                "day": 1,
+                "resourceBoxId": 1422
+            },
+            {
+                "id": 1457,
+                "limitedLoginBonusId": 1128,
+                "day": 2,
+                "resourceBoxId": 1423
+            },
+            {
+                "id": 1458,
+                "limitedLoginBonusId": 1128,
+                "day": 3,
+                "resourceBoxId": 1424
+            },
+            {
+                "id": 1459,
+                "limitedLoginBonusId": 1128,
+                "day": 4,
+                "resourceBoxId": 1425
+            },
+            {
+                "id": 1460,
+                "limitedLoginBonusId": 1128,
+                "day": 5,
+                "resourceBoxId": 1426
+            },
+            {
+                "id": 1461,
+                "limitedLoginBonusId": 1128,
+                "day": 6,
+                "resourceBoxId": 1427
+            },
+            {
+                "id": 1462,
+                "limitedLoginBonusId": 1128,
+                "day": 7,
+                "resourceBoxId": 1428
+            },
+            {
+                "id": 1463,
+                "limitedLoginBonusId": 1128,
+                "day": 8,
+                "resourceBoxId": 1429
+            },
+            {
+                "id": 1464,
+                "limitedLoginBonusId": 1128,
+                "day": 9,
+                "resourceBoxId": 1430
+            },
+            {
+                "id": 1465,
+                "limitedLoginBonusId": 1128,
+                "day": 10,
+                "resourceBoxId": 1431
             }
         ]
     }

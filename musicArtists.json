@@ -386,8 +386,8 @@
     },
     {
         "id": 78,
-        "name": "aqu3ra",
-        "pronunciation": "aqu3ra"
+        "name": "Aqu3ra",
+        "pronunciation": "Aqu3ra"
     },
     {
         "id": 79,
@@ -1163,6 +1163,26 @@
         "id": 234,
         "name": "komedawara×R Sound Design",
         "pronunciation": "komedawara×R Sound Design"
+    },
+    {
+        "id": 235,
+        "name": "ヤスオ",
+        "pronunciation": "ヤスオ"
+    },
+    {
+        "id": 236,
+        "name": "Daibakuhasin",
+        "pronunciation": "Daibakuhasin"
+    },
+    {
+        "id": 237,
+        "name": "Moimi Kashii",
+        "pronunciation": "Moimi Kashii"
+    },
+    {
+        "id": 238,
+        "name": "Shu",
+        "pronunciation": "Shu"
     },
     {
         "id": 10001,

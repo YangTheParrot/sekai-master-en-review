@@ -70,6 +70,60 @@
         "assetbundleName": "vl_archive_thumbnail_10004"
     },
     {
+        "id": 10011,
+        "seq": 10012,
+        "paidVirtualLiveShopItemGroupId": 2,
+        "name": "Performance 1",
+        "description": "*Some audio is missing from this performance.",
+        "resourceBoxId": 10011,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 100111,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 3000,
+                "startAt": 1741492800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_10011"
+    },
+    {
+        "id": 10012,
+        "seq": 10011,
+        "paidVirtualLiveShopItemGroupId": 2,
+        "name": "Performance 2",
+        "description": "*Some audio is missing from this performance.",
+        "resourceBoxId": 10012,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 100121,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 3000,
+                "startAt": 1741492800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_10012"
+    },
+    {
+        "id": 10013,
+        "seq": 10013,
+        "paidVirtualLiveShopItemGroupId": 2,
+        "name": "All Performances",
+        "description": "*Please review the warnings for both Performances.",
+        "resourceBoxId": 10013,
+        "paidVirtualLiveShopItemPurchaseType": "bundle",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 100131,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 5000,
+                "startAt": 1741492800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_10013"
+    },
+    {
         "id": 20001,
         "seq": 20001,
         "name": "Haruka 2021",
@@ -1938,6 +1992,72 @@
             }
         ],
         "assetbundleName": "vl_archive_thumbnail_20085"
+    },
+    {
+        "id": 20086,
+        "seq": 20086,
+        "name": "Shiho 2025",
+        "resourceBoxId": 20086,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 200861,
+                "costResourceType": "jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1743490800000
+            },
+            {
+                "id": 200862,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1743490800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_20086"
+    },
+    {
+        "id": 20087,
+        "seq": 20087,
+        "name": "Mafuyu 2025",
+        "resourceBoxId": 20087,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 200871,
+                "costResourceType": "jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1743490800000
+            },
+            {
+                "id": 200872,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1743490800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_20087"
+    },
+    {
+        "id": 20088,
+        "seq": 20088,
+        "name": "Luka 2025",
+        "resourceBoxId": 20088,
+        "paidVirtualLiveShopItemPurchaseType": "single",
+        "paidVirtualLiveShopCosts": [
+            {
+                "id": 200881,
+                "costResourceType": "jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1743490800000
+            },
+            {
+                "id": 200882,
+                "costResourceType": "paid_jewel",
+                "costResourceQuantity": 300,
+                "startAt": 1743490800000
+            }
+        ],
+        "assetbundleName": "vl_archive_thumbnail_20088"
     },
     {
         "id": 30008,
