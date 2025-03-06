@@ -37662,22 +37662,6 @@
         ]
     },
     {
-        "id": 2174,
-        "seq": 200015,
-        "groupId": 255,
-        "honorRarity": "low",
-        "name": "JP 2nd Anniversary Special Stage Connect Show",
-        "assetbundleName": "honor_2ndanniversary",
-        "levels": [
-            {
-                "honorId": 2174,
-                "level": 1,
-                "bonus": 0,
-                "description": "Purchase the JP 2rd Anniversary Memorial Stage Connect Show  Special Merch Bundle."
-            }
-        ]
-    },
-    {
         "id": 2175,
         "seq": 125601,
         "groupId": 256,

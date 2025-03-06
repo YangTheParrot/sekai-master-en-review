@@ -510,5 +510,21 @@
         "assetbundleName": "area24_af",
         "fileName": "area24_af",
         "specialSeasonAreaUseType": "area"
+    },
+    {
+        "id": 10001,
+        "specialSeasonId": 3,
+        "areaId": 20,
+        "assetbundleName": "bgm_area_aprilfool_2022",
+        "fileName": "bgm_area_aprilfool_2022",
+        "specialSeasonAreaUseType": "bgm"
+    },
+    {
+        "id": 10002,
+        "specialSeasonId": 3,
+        "areaId": 20,
+        "assetbundleName": "area20_af",
+        "fileName": "area20_af",
+        "specialSeasonAreaUseType": "area"
     }
 ]
