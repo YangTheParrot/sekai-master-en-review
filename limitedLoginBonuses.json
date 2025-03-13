@@ -5509,9 +5509,9 @@
         "seq": 1128,
         "name": "Spring Login Campaign",
         "startAt": 1742238000000,
-        "endAt": 1743533999000,
+        "endAt": 1743505199000,
         "assetbundleName": "spring_login_bonus_2022",
-        "closeAt": 1742814000000,
+        "closeAt": 1742727600000,
         "limitedLoginBonusDetails": [
             {
                 "id": 1456,

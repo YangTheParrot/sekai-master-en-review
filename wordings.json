@@ -1041,7 +1041,7 @@
     },
     {
         "wordingKey": "MSG_ERROR_NAME_INPUT_MAX",
-        "value": "Maximum limit of 10 characters."
+        "value": "Maximum limit of 20 characters."
     },
     {
         "wordingKey": "MSG_ERROR_NAME_INPUT_MIN",
@@ -2761,7 +2761,7 @@
     },
     {
         "wordingKey": "MSG_STAMP_MISSION_EVENT_END",
-        "value": "3rd Anniversary Stamp Missions have ended.\nReturning to home screen."
+        "value": "These Stamp Missions have ended.\nReturning to home screen."
     },
     {
         "wordingKey": "MSG_STAMP_MISSION_INTERNET_NOT_REACHABLE",
@@ -8149,7 +8149,7 @@
     },
     {
         "wordingKey": "WORD_PRESENT_ADS_GL",
-        "value": "ADS"
+        "value": "Ads"
     },
     {
         "wordingKey": "WORD_PRESENT_HISTORY",

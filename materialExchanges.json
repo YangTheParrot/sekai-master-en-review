@@ -23850,6 +23850,7 @@
         "resourceBoxId": 130008,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1745348400000,
         "costs": [
             {
                 "materialExchangeId": 130008,
@@ -23871,6 +23872,7 @@
         "resourceBoxId": 130009,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1745348400000,
         "costs": [
             {
                 "materialExchangeId": 130009,
@@ -23892,6 +23894,7 @@
         "resourceBoxId": 130010,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1745348400000,
         "costs": [
             {
                 "materialExchangeId": 130010,
@@ -23913,6 +23916,7 @@
         "resourceBoxId": 130011,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1745348400000,
         "costs": [
             {
                 "materialExchangeId": 130011,
@@ -23934,6 +23938,7 @@
         "resourceBoxId": 130012,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1745348400000,
         "costs": [
             {
                 "materialExchangeId": 130012,
@@ -23955,6 +23960,7 @@
         "resourceBoxId": 130013,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1745348400000,
         "costs": [
             {
                 "materialExchangeId": 130013,
@@ -23993,6 +23999,7 @@
         "resourceBoxId": 130015,
         "refreshCycle": "none",
         "exchangeLimit": 1,
+        "startAt": 1744570800000,
         "costs": [
             {
                 "materialExchangeId": 130015,
@@ -24031,6 +24038,7 @@
         "resourceBoxId": 130017,
         "refreshCycle": "none",
         "exchangeLimit": 50,
+        "startAt": 1744570800000,
         "costs": [
             {
                 "materialExchangeId": 130017,
@@ -24050,6 +24058,7 @@
         "resourceBoxId": 130018,
         "refreshCycle": "none",
         "exchangeLimit": 15,
+        "startAt": 1744570800000,
         "costs": [
             {
                 "materialExchangeId": 130018,
@@ -24069,6 +24078,7 @@
         "resourceBoxId": 130019,
         "refreshCycle": "none",
         "exchangeLimit": 10,
+        "startAt": 1744570800000,
         "costs": [
             {
                 "materialExchangeId": 130019,
@@ -24088,6 +24098,7 @@
         "resourceBoxId": 130020,
         "refreshCycle": "none",
         "exchangeLimit": 100,
+        "startAt": 1744570800000,
         "costs": [
             {
                 "materialExchangeId": 130020,
